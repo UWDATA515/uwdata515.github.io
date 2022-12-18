@@ -6,17 +6,17 @@ collection: fall2021
 
 ## Instructors
 
-#### David Beck
-#### Teaching Assistant: Erin Wilson
+#### Melissa Winstanley (she/her)
+#### Teaching Assistants: Nayantara Mohan, Amrit Bhat
 
 ## Logistics
-#### Days: Tuesdays, Thursday
-#### Time: 11:30am - 1:00pm
-#### Place: OUG 141
-**IMPORTANT NOTE ABOUT OUG**: You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
+#### Days: Tuesdays
+#### Time: 5pm - 8:50pm
+#### Place: ECE 125
 
-#### David's office hours: flexible for students, by appointment via dacb AT uw.edu on Zoom
-#### Erin's (TA) office hours: Wednesdays 3:45-4:45 PM in CSE 674
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom
+#### Nayantara's (TA) office hours: TBD-weekday TBD-time in TBD-place
+#### Amrit's (TA) office hours: TBD-weekday TBD-time in TBD-place
 ```
 Fastest way to get help would be by posting your doubts on Ed Discussion platform: https://edstem.org/us/courses/29869/discussion/ 
 ```
