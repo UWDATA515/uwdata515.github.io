@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: fall2021
+collection: winter2023
 ---
 
 ## Course Grade
@@ -41,13 +41,13 @@ as they are before the homework due date.
 
 ## Class Participation
 
-Class participation will be graded based on project related presentations, polling in class, and participation in the Ed Discussion.
+Class participation will be graded based on project related presentations, polling in class, and participation in Canvas discussions.
 
 We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation).
 
 ## Course Project
 
-[Description of Class Project](https://docs.google.com/document/d/14XfgSuko_hfYbNBq8agz31CxnmIJkw2Iz8yW0cs-mSY/edit?usp=sharing)
+[Description of Class Project](projects.md)
 
 Projects will be graded based on:
 (a) the final presentation, (b) documentation

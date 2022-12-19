@@ -1,9 +1,8 @@
 # Site settings
-title: Software Development for Data Scientists (CSE 583)
-description: "Course at the University of Washington, Software Development for Data Scientists"
-url: "http://uwseds.github.io"
-twitter_username: uwescience
-github_username:  UWSEDS
+title: Software Design for Data Scientists (DATA 515)
+description: "Course at the University of Washington, Software Design for Data Scientists"
+url: "http://uwdata515.github.io"
+github_username:  UWDATA515
 
 
 # Build settings

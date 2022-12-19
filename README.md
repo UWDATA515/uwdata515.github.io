@@ -1,3 +1,3 @@
-# [http://uwseds.github.io](http://uwseds.github.io)
+# <http://uwdata515.github.io>
  
-Website for the UW course, *CSE 583: Software Development for Data Scientists* (also DATA 515 for professional masters)
+Website for the UW course, *DATA 515: Software Design for Data Scientists*
