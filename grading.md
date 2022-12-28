@@ -16,11 +16,11 @@ Course project: 50%
 
 ## Homework grading
 
-There will be 4 homework assignments with individual scores and a group homework assignment.
+There will be 5 homework assignments with individual scores.
 The homework will be assigned in the first part of the course.
 To receive full credit, homework must be posted by 11:59 PM Pacific Time on the due date.
 The due date for homework is specified in the class syllabus.
-Two points will be deducted from homework received up to a week after its due date.
+20% will be deducted from homework received up to a week after its due date.
 No credit will be given for homework more than one week late (unless there is special permission
 from the instructors).
 The instructors will respond to the homework as a github issue.
@@ -41,7 +41,7 @@ as they are before the homework due date.
 
 ## Class Participation
 
-Class participation will be graded based on project related presentations, polling in class, and participation in Canvas discussions.
+Class participation will be graded based on project-related presentations, polling in and outside of class, and participation in Ed Discussions.
 
 We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation).
 

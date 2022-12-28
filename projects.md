@@ -65,9 +65,8 @@ The technology review is a group presentation. It should be about 5-7 minutes in
 - One slide side-by-side comparisons of the technologies. This will require that you actually install and use the technologies.
 
 ## Final Project Presentation
-We will likely use a poster presentation format for this year.  In the past, we have done oral presentations.  
 
-### Instructions for oral presentations (likely not for 2022)
+### Instructions for oral presentations
 Teams will present their projects using slides in 10 minute oral presentation. The presentation should include:
 
 - Background. Describe the problem or area being addressed.

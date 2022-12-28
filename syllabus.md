@@ -7,19 +7,19 @@ collection: winter2023
 **Homework is due by 11:59pm on the date that it is posted as "due".**
 
 
-| Day      | Topic                                                         | References       | Assignment (due Tues @ 11:59PM Pacific)    |
-|:----------|:----------------|:---------------|:-------------------|
-| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [software installation checklist](<software.md>);<br />[Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php) | Homework 0 assigned |
-| Jan 10    |  | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 0 due.<br />Homework 1 assigned. |
-| Jan 17    |  |  | Homework 1 due.<br />Homework 2 assigned. |
-| Jan 24    |  |  |  |
-| Jan 31    |  |  | Homework 2 due.<br />Homework 3 assigned. |
-| Feb 7     |  |  | Homework 3 due.<br />Homework 4 assigned. |
-| Feb 14    |  |  | Homework 4 due. |
-| Feb 21    |  |  |  |
-| Feb 28    |  |  |  |
-| Mar 7     |  |  |  |
-| Mar 14    | 6:30pm - 8:20pm. Project presentations.  |  |  |
+| Day      | Topic                                                         | References       | Assigned | Due (Tues @ 11:59PM Pacific)    |
+|:----------|:----------------|:---------------|:-------------------|:-------------------|
+| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php) | [Install required software](<software.md>)<br />Homework 1<!-- https://classroom.github.com/a/YSDd6GLh --> | | 
+| Jan 10    | Jupyter notebooks<br />Python basics<br />Pandas | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 2 | Homework 1 | 
+| Jan 17    | Procedural Python<br />Interfaces & specifications |  | Homework 3 | Homework 2 | 
+| Jan 24    | Debugging, exceptions, & testing |  | Homework 4 | Homework 3 | 
+| Jan 31    | Project overview<br />Documentation & style<br />Modules, imports, names, packages |  | Homework 5<br />Project: proposals | Homework 4 | 
+| Feb 7     | Project proposals<br />Team formation<br />Git & team collaboration |  | Project: GitHub repository | Homework 5<br />Project: proposals | 
+| Feb 14    | Software & use case design<br />Technology reviews (lecture) |  | Project: software & use case design (in class)<br />Project: technology reviews | Project: GitHub repository | 
+| Feb 21    | Standups<br />Technology reviews (presentations) |  |  | Project: Technology reviews<br />Project: software & use case design | 
+| Feb 28    | Standups<br />Virtual environments<br />Continuous integration |  |  |  | 
+| Mar 7     | Standups<br />Group consultations with Melissa/Nayantara/Amrit<br />Guest lecture (tentative) |  |  | | 
+| Mar 14    | 6:30pm - 8:20pm. Project presentations.  |  |  | Project: presentation<br />Project: survey | 
 
 **Access and Accomodations**
 

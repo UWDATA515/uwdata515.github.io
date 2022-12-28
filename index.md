@@ -18,7 +18,7 @@ collection: winter2023
 #### Nayantara's (TA) office hours: TBD-weekday TBD-time in TBD-place
 #### Amrit's (TA) office hours: TBD-weekday TBD-time in TBD-place
 
-**The fastest way to get help would be by posting your questions on Canvas: <https://canvas.uw.edu/courses/1629436/discussion_topics>**
+**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/32135)**
 
 If you are feeling sick, please follow these guidelines from the University: <https://www.washington.edu/coronavirus/student-faq/#feelsick>.
 
