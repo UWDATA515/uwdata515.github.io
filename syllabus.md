@@ -9,7 +9,7 @@ collection: winter2023
 
 | Day      | Topic                                                         | References       | Assigned | Due (Tues @ 11:59PM Pacific)    |
 |:----------|:----------------|:---------------|:-------------------|:-------------------|
-| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php) | [Install required software](<software.md>)<br />Homework 1<!-- https://classroom.github.com/a/YSDd6GLh --> | | 
+| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) | [Install required software](<software.md>)<br />Homework 1<!-- https://classroom.github.com/a/YSDd6GLh --> | | 
 | Jan 10    | Jupyter notebooks<br />Python basics<br />Pandas | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 2 | Homework 1 | 
 | Jan 17    | Procedural Python<br />Interfaces & specifications |  | Homework 3 | Homework 2 | 
 | Jan 24    | Debugging, exceptions, & testing |  | Homework 4 | Homework 3 | 
