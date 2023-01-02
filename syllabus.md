@@ -14,8 +14,8 @@ collection: winter2023
 | Jan 17    | Procedural Python<br />Interfaces & specifications |  | Homework 3 | Homework 2 | 
 | Jan 24    | Debugging, exceptions, & testing |  | Homework 4 | Homework 3 | 
 | Jan 31    | Project overview<br />Documentation & style<br />Modules, imports, names, packages |  | Homework 5<br />Project: proposals | Homework 4 | 
-| Feb 7     | Project proposals<br />Team formation<br />Git & team collaboration |  | Project: GitHub repository | Homework 5<br />Project: proposals | 
-| Feb 14    | Software & use case design<br />Technology reviews (lecture) |  | Project: software & use case design (in class)<br />Project: technology reviews | Project: GitHub repository | 
+| Feb 7     | Project proposals<br />Team formation<br />Git & team collaboration |  | Project: GitHub repository<br />Project: idea validation | Homework 5<br />Project: proposals | 
+| Feb 14    | Software & use case design<br />Technology reviews (lecture) |  | Project: software & use case design (in class)<br />Project: technology reviews | Project: GitHub repository<br />Project: idea validation | 
 | Feb 21    | Standups<br />Technology reviews (presentations) |  |  | Project: Technology reviews<br />Project: software & use case design | 
 | Feb 28    | Standups<br />Virtual environments<br />Continuous integration |  |  |  | 
 | Mar 7     | Standups<br />Group consultations with Melissa/Nayantara/Amrit<br />Guest lecture (tentative) |  |  | | 
@@ -32,6 +32,15 @@ If you have not yet established services through DRS, but have a temporary healt
 
 Washington state law requires that UW develop a policy for accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at Religious Accommodations Policy (https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the Religious Accommodations Request form (https://registrar.washington.edu/students/religious-accommodations-request/).
 
+
+**Classroom Climate**
+The UW Master of Science in Data Science seeks to ensure all students are fully included in each course. We strive to create an environment that reflects community and mutual caring. We encourage students with concerns about classroom climate to talk to Melissa or contact MSDS staff at uwmsds@uw.edu
+
+
+**Remote Online Access**
+Participation in this course requires students to access Internet resources. Specifically, students in this course will need to access UW resources including Canvas, UW Libraries which require users to login with a UW NetID, and some external resources such as Zoom, Google Docs, YouTube, and/or eBook websites. For students who are off-campus and are in a situation where direct access to these required resources is not possible, UW IT recommends that students use the official UW VPN, called Husky OnNet VPN (see instructions are below). However, students who are outside the US while taking this course should be aware that they may be subject to laws, policies, and/or technological systems which restrict the use of any VPNs. [Students are responsible for their own compliance with all laws](https://itconnect.uw.edu/it-at-the-uw/it-governance-and-policies/appropriate-use/) regarding the use of Husky OnNet and all other UW resources.
+
+UW-IT provides the Husky OnNet VPN free for UW students via [this link](https://itconnect.uw.edu/tools-services-support/networks-connectivity/uw-networks/about-husky-onnet/use-husky-onnet/) and advises students to use it with the “All Internet Traffic” option enabled (see the [UW Libraries instructions](https://www.lib.washington.edu/help/connect/husky-onnet) and [UW-IT’s FAQs](https://itconnect.uw.edu/tools-services-support/networks-connectivity/uw-networks/about-husky-onnet/faqs/) regarding the Husky OnNet VPN). Doing so will route all incoming and outgoing Internet through UW servers while it is enabled.
 
 **Land Acknowledgment**
 
