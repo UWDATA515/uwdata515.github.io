@@ -66,15 +66,13 @@ The technology review is a group presentation. It should be about 5-7 minutes in
 
 ## Final Project Presentation
 
-### Instructions for oral presentations
-Teams will present their projects using slides in 10 minute oral presentation. The presentation should include:
+Teams will present their projects using slides in 8 minute oral presentations. The presentation should include:
 
 - Background. Describe the problem or area being addressed.
 - Data used. What data did you use? How was it obtained? What are its limitations?
 - Use cases. How users will interact with your system in a way that addresses the problem area.
-- Demo. Demonstrate your software.
+- Demo. Demonstrate your software. **Do not omit this!** If you don't want to risk a live demo, at least include a screen recording of the demo.
 - Design. Describe the components and how they interact to accomplish the use cases.
-- Project Structure. Show the structure of your github repository.
 - Lessons learned and future work. Focus on *software engineering* lessons.
 
 You should post a PDF of your presentation in the docs folder of your project.

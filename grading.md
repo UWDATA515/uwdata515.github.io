@@ -41,7 +41,7 @@ as they are before the homework due date.
 
 ## Class Participation
 
-Class participation will be graded based on project-related presentations, polling in and outside of class, and participation in Ed Discussions.
+Class participation will be graded based on project-related presentations, participation in polling in and outside of class, and participation in Ed Discussions.
 
 We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation).
 

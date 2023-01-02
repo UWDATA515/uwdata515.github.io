@@ -9,8 +9,8 @@ collection: winter2023
 
 | Day      | Topic                                                         | References       | Assigned | Due (Tues @ 11:59PM Pacific)    |
 |:----------|:----------------|:---------------|:-------------------|:-------------------|
-| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) | [Install required software](<software.md>)<br />Homework 1<!-- https://classroom.github.com/a/YSDd6GLh --> | | 
-| Jan 10    | Jupyter notebooks<br />Python basics<br />Pandas | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 2 | Homework 1 | 
+| Jan 3     | Course introduction<br />Asking questions<br />Command line<br />Introductory git | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) | [Install required software](<software.md>)<br />Homework 1<!-- https://classroom.github.com/a/YSDd6GLh --><br />Introductory Survey<!-- https://canvas.uw.edu/courses/1629436/quizzes/1787443 --> | | 
+| Jan 10    | Jupyter notebooks<br />Python basics<br />Pandas | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 2 | Homework 1<br />Introductory Survey | 
 | Jan 17    | Procedural Python<br />Interfaces & specifications |  | Homework 3 | Homework 2 | 
 | Jan 24    | Debugging, exceptions, & testing |  | Homework 4 | Homework 3 | 
 | Jan 31    | Project overview<br />Documentation & style<br />Modules, imports, names, packages |  | Homework 5<br />Project: proposals | Homework 4 | 

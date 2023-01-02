@@ -82,6 +82,6 @@ For Ubuntu distributions, try $`sudo apt-get install nano`. For others, $`yum in
 ### MacOS operating system:
 MacOS doesn't have a pre-installed package manager for their Unix programs. The best option is Homebrew with [full instructions on the website](https://brew.sh/).
 
-Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), and Sublime (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
+Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), Sublime (all platforms), or Visual Studio Code (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
 
 If you'd also like a graphical text editor but don't already have a favorite, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
