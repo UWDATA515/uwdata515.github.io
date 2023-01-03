@@ -13,7 +13,7 @@ collection: winter2023
 | Jan 10    | Jupyter notebooks<br />Python basics<br />Pandas | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)  | Homework 2 | Homework 1<br />Introductory Survey | 
 | Jan 17    | Procedural Python<br />Interfaces & specifications |  | Homework 3 | Homework 2 | 
 | Jan 24    | Debugging, exceptions, & testing |  | Homework 4 | Homework 3 | 
-| Jan 31    | Project overview<br />Documentation & style<br />Modules, imports, names, packages |  | Homework 5<br />Project: proposals | Homework 4 | 
+| Jan 31    | Project overview<br />Documentation & style<br />Modules, imports, names, packages |  | Homework 5<br />Project: proposals (**due before class! 12pm**) | Homework 4 | 
 | Feb 7     | Project proposals<br />Team formation<br />Git & team collaboration |  | Project: GitHub repository<br />Project: idea validation | Homework 5<br />Project: proposals | 
 | Feb 14    | Software & use case design<br />Technology reviews (lecture) |  | Project: software & use case design (in class)<br />Project: technology reviews | Project: GitHub repository<br />Project: idea validation | 
 | Feb 21    | Standups<br />Technology reviews (presentations) |  |  | Project: Technology reviews<br />Project: software & use case design | 
