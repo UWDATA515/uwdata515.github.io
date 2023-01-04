@@ -7,16 +7,16 @@ collection: winter2023
 ## Instructors
 
 #### Melissa Winstanley (she/her)
-#### Teaching Assistants: Nayantara Mohan, Amrit Bhat
+#### Teaching Assistants: Nayantara Mohan (she/her), Amrit Bhat (he/him)
 
 ## Logistics
 #### Days: Tuesdays
 #### Time: 5pm - 8:50pm
 #### Place: ECE 125
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom
-#### Nayantara's (TA) office hours: TBD-weekday TBD-time in TBD-place
-#### Amrit's (TA) office hours: TBD-weekday TBD-time in TBD-place
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; in person Tuesday 4:00-4:50pm in CSE 206
+#### Nayantara's (TA) office hours: Thursday 5:00-6:00pm on Zoom
+#### Amrit's (TA) office hours: Monday 5:00-6:00pm on Zoom
 
 **The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/32135)**
 
