@@ -12,9 +12,11 @@ collection: winter2023
 ## Logistics
 #### Days: Tuesdays
 #### Time: 5pm - 8:50pm
-#### Place: ECE 125
+#### Place: OUG 141
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; in person Tuesday 4:00-4:50pm in CSE 206
+**IMPORTANT NOTE ABOUT OUG:** You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
+
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; in person Tuesday 4:00-4:50pm in CSE 206, in person and online Friday 3:00-5:30pm
 #### Nayantara's (TA) office hours: Thursday 5:00-6:00pm on Zoom
 #### Amrit's (TA) office hours: Monday 5:00-6:00pm on Zoom
 
