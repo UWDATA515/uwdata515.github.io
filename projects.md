@@ -9,13 +9,21 @@ The course project is a "capstone" that pulls together all elements of the cours
 
 Projects will address a science or business question of interest. For example, a business question related to the bike sharing company Pronto might be "How should bicycles be allocated among stations?" An **analysis project** would seek data to answer this question directly. However, you may choose not to answer the question yourself. Rather, you might do a **tool project** that builds a tool to help others to answer the question. For example, one such tool might be a package that better organizes the Pronto data for analysis. Still another possibility is that you will build a system that teaches others the skills needed to do analysis, which we call an **instructional system project**. An example here would be a system that teaches about logistics for businesses in the sharing economy. Other types of projects are possible as well.
 
+## Project Schedule
+
+* Week 6: Project Proposals & team formation (presentations in class)
+* Week 7: Software & Use Case Design (exercise in class)
+* Week 8: Technology Reviews (presentations in class)
+* Week 9-10: Standups, project work, & consultations with instructors
+* Finals: Presentation (presentations)
+
 ## Project Workflow
 
 ### Step 1: Pick Your Data
-You should have two data sets so that you can demonstrate an ability to join data with different characteristics (e.g., granularity in time and/or space). The data must be available immediately, without concerns about access rights for team members or the instructors.
+You should have **two** data sets so that you can demonstrate an ability to join data with different characteristics (e.g., granularity in time and/or space). The data must be available immediately, without concerns about access rights for team members or the instructors.
 
 ### Step 2: Define the Problem
-Determine the type of project  (e.g., analysis project) and the questions of interest.
+Determine the type of project (e.g., analysis project) and the questions of interest.
 
 ### Step 3: Write the Functional Specification
 The functional specification details:
@@ -35,14 +43,14 @@ Projects should have a online github repository with the project name. Top level
 * README.md file that gives an overview of the project
 * LICENSE file
 * setup.py file that initializes the project after it has been cloned
-* doc folder that contains documentation (including the functional specification, the design specification, and the final project presentation or poster)
-* python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with __init__.py files) and test files that begin with "test_".
+* doc folder that contains documentation (including the functional specification, the design specification, and the final project presentation)
+* python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files) and test files that begin with "test_".
 * examples folder that contains examples of using the packages
 
 ## Design Documents
 
-You will create two documents describing the design of your project.
-These documents should be in your project ``docs`` folder.
+You will create at least two Markdown documents describing the design of your project.
+These documents should be in your project `docs` folder.
 - **Functional Specification**. The document should have the following sections:
   - Background. The problem being addressed.
   - User profile. Who uses the system. What they know about the domain and computing (e.g., can browse the web, can program in Python)
@@ -71,11 +79,11 @@ Teams will present their projects using slides in 8 minute oral presentations. T
 - Background. Describe the problem or area being addressed.
 - Data used. What data did you use? How was it obtained? What are its limitations?
 - Use cases. How users will interact with your system in a way that addresses the problem area.
-- Demo. Demonstrate your software. **Do not omit this!** If you don't want to risk a live demo, at least include a screen recording of the demo.
 - Design. Describe the components and how they interact to accomplish the use cases.
+- Demo. Demonstrate your software. **Do not omit this!** If you don't want to risk a live demo, at least include a screen recording of the demo.
 - Lessons learned and future work. Focus on *software engineering* lessons.
 
-You should post a PDF of your presentation in the docs folder of your project.
+You should add a PDF of your presentation in the docs folder of your project.
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
@@ -90,7 +98,18 @@ specification and design specification)
 folder of the project repository)
 * Implements continuous integration (e.g., via travis-CI), and all tests pass.
 * Completeness of the setup.py script
+* Features implemented (ie the code should be functional, even if the project did not accomplish all the goals that it set out to)
 * Creativity and technical challenge
+* Technology review
+* Final presentation
+
+Grades for the project will be assigned to the entire team, although
+there will be adjustments
+for significant discrepancies in
+the relative contributions of team members.
+The latter will be assessed by commit logs and by
+a survey students will submit
+at the end of the quarter.
 
 ## Examples of previous projects
 These examples are fantastic, though they may not be perfect. They should be considered examples of what kinds of projects are possible and not necessarily exa mples to be precisely emulated.  The examples below include an analysis project, a visualization project and a reusable data project.
