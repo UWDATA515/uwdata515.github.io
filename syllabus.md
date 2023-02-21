@@ -18,7 +18,7 @@ collection: winter2023
 | Feb 14    | [Software & use case design](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f7119f7-f563-4319-bc9d-afaa0013ad53)<br />[Technology reviews (lecture)](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7720f4b2-a845-4f99-9f96-afaa00111e62)<br />[Lecture materials - slides](https://github.com/UWDATA515/lecture-materials/blob/main/07) |  | [Project: software & use case design](https://uwdata515.github.io/projects.html)<br />[Project: technology reviews](https://github.com/UWDATA515/lecture-materials/blob/main/07/DATA515_07_TechnologyReviews.pdf) | [Project: GitHub repository & idea validation](https://canvas.uw.edu/courses/1629436/assignments/8082533)<br />Homework 4 resubmission (via GitHub) | 
 | Feb 21    | Standups<br />Technology reviews (presentations) |  |  | [Project: Technology reviews](https://github.com/UWDATA515/lecture-materials/blob/main/07/DATA515_07_TechnologyReviews.pdf)<br />[Project: software & use case design](https://uwdata515.github.io/projects.html)<br />Homework 5 resubmission (via GitHub) | 
 | Feb 28    | Standups<br />Virtual environments<br />Continuous integration |  |  |  | 
-| Mar 7     | Standups & Group Work<br />Group consultations with Melissa/Nayantara/Amrit |  |  | Project: Practice Presentations | 
+| Mar 7     | Standups & Group Work<br />Group consultations with Melissa/Nayantara/Amrit |  |  | Project: Practice Demos with course staff (low-stress, just to see how it's going) | 
 | Mar 14    | 6:30pm - 8:20pm. Project presentations.  |  |  | [Project: presentation](https://uwdata515.github.io/projects.html)<br />Project: survey | 
 
 **Access and Accomodations**

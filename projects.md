@@ -74,6 +74,8 @@ The technology review is a group presentation. It should be about 8 minutes in l
 - One slide on the drawbacks or areas of concern on your choice
 - Demo of the package (input=>code=>output, or visual demonstration)
 
+Upload a PDF of the presentation to the `docs` folder in your GitHub repository.
+
 ## Final Project Presentation
 
 Teams will present their projects using slides in 8 minute oral presentations. The presentation should include:
