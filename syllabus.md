@@ -19,7 +19,7 @@ collection: winter2023
 | Feb 21    | Standups<br />Technology reviews (presentations) |  |  | [Project: Technology reviews](https://github.com/UWDATA515/lecture-materials/blob/main/07/DATA515_07_TechnologyReviews.pdf)<br />[Project: software & use case design](https://uwdata515.github.io/projects.html)<br />Homework 5 resubmission (via GitHub) | 
 | Feb 28    | Standups<br />Virtual environments<br />Continuous integration |  |  |  | 
 | Mar 7     | Standups & Group Work<br />Group consultations with Melissa/Nayantara/Amrit |  |  | Project: Practice Demos with course staff (low-stress, just to see how it's going) | 
-| Mar 14    | 6:30pm - 8:20pm. Project presentations.  |  |  | [Project: presentation](https://uwdata515.github.io/projects.html)<br />Project: survey | 
+| Mar 14    | 6:30pm - 8:50pm. Project presentations.  |  |  | [Project: presentation](https://uwdata515.github.io/projects.html)<br />Project: survey | 
 
 **Access and Accomodations**
 
