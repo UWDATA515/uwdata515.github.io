@@ -87,7 +87,7 @@ Teams will present their projects using slides in 8 minute oral presentations. T
 - Demo. Demonstrate your software. **Do not omit this!** If you don't want to risk a live demo, at least include a screen recording of the demo.
 - Lessons learned and future work. Focus on *software engineering* lessons.
 
-You should add a PDF of your presentation in the docs folder of your project.
+You should add a PDF of your presentation in the docs folder of your project BEFORE the final presentation during finals week, as well as a screen capture recording of your demo (we want this in case there are issues with attaching your computer to the podium during the presentation).
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
