@@ -42,8 +42,8 @@ Projects should have a online github repository with the project name. Top level
 
 * README.md file that gives an overview of the project
 * LICENSE file
-* setup.py file that initializes the project after it has been cloned
-* doc folder that contains documentation (including the functional specification, the design specification, and the final project presentation)
+* [setup.py script](https://docs.python.org/3/distutils/introduction.html#an-introduction-to-distutils) or [pyproject.toml](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects) that initializes the project
+* doc folder that contains documentation (including the functional specification, the design specification, the technology review, and the final project presentation)
 * python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files) and test files that begin with "test_".
 * examples folder that contains examples of using the packages
 
@@ -94,14 +94,15 @@ Projects will be evaluated based on the following criteria:
 
 * Organized as described in the section on project structure
 * Quality of the documentation (especially the functional
-specification and design specification)
+specification and design specification), including how to run the
+project so that the instructors can understand how to make it work.
 * Uses at least two data sources
 * Code quality, especially consistent coding standard (e.g., ``pylint``).
 * Test coverage
 * Quality of the example of using the package (in the examples
 folder of the project repository)
-* Implements continuous integration (e.g., via travis-CI), and all tests pass.
-* Completeness of the setup.py script
+* Implements continuous integration (e.g., via GitHub actions or travis-CI), and all tests pass (lint, tests, and code coverage).
+* Completeness of the [setup.py script](https://docs.python.org/3/distutils/introduction.html#an-introduction-to-distutils) or [pyproject.toml](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects)
 * Features implemented (ie the code should be functional, even if the project did not accomplish all the goals that it set out to)
 * Creativity and technical challenge
 * Technology review
