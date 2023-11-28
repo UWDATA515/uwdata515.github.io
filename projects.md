@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-collection: winter2023
+collection: winter2024
 ---
 
 ## Overview
@@ -11,10 +11,12 @@ Projects will address a science or business question of interest. For example, a
 
 ## Project Schedule
 
-* Week 6: Project Proposals & team formation (presentations in class)
-* Week 7: Software & Use Case Design (exercise in class)
-* Week 8: Technology Reviews (presentations in class)
-* Week 9-10: Standups, project work, & consultations with instructors
+* Week 4: Project Proposals & team formation (presentations in class)
+* Week 5: Software & Use Case Design (exercise in class)
+* Week 6: Technology Reviews (presentations in class)
+* Week 6-10: Standups & project work
+* Week 8: First demo
+* Week 10: Practice presentation, consultations with instructors
 * Finals: Presentation (presentations)
 
 ## Project Workflow
@@ -34,6 +36,8 @@ The functional specification details:
 
 For tool projects, the users are typically programmers, and so the functional specification describes the programming interface.
 
+For research projects, you'll have people using the research tools as well as people consuming the research result.
+
 ### Steps 4 and beyond: Iteratively Develop And Refine the Project
 You will organize the project as a set of short-term deliverables. Typically, you focus first on those parts where you have the most uncertainty since projects typically fail because of "unknown unknowns". For some projects, this will be a data-first focus to make sure that your data can answer the questions that you pose. For others, it may be exploring a python package that you hope will provide key features (e.g., visualizations).
 
@@ -45,12 +49,12 @@ Projects should have a online github repository with the project name. Top level
 * [setup.py script](https://docs.python.org/3/distutils/introduction.html#an-introduction-to-distutils) or [pyproject.toml](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects) that initializes the project
 * doc folder that contains documentation (including the functional specification, the design specification, the technology review, and the final project presentation)
 * python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files) and test files that begin with "test_".
-* examples folder that contains examples of using the packages
+* examples folder that contains examples of using the packages. An example is a step-by-step walkthrough of how a user would interact with your project - all the users that you've identified as part of your functional specification.
 
 ## Design Documents
 
-You will create at least two Markdown documents describing the design of your project.
-These documents should be in your project `docs` folder.
+You will create at least two Markdown documents describing the design of your project. These documents should be in your project `docs` folder, and the first draft (for grading) is due as specified in the timeline above.
+
 - **Functional Specification**. The document should have the following sections:
   - Background. The problem being addressed.
   - User profile. Who uses the system. What they know about the domain and computing (e.g., can browse the web, can program in Python)
@@ -80,7 +84,7 @@ Upload a PDF of the presentation to the `docs` folder in your GitHub repository.
 
 Teams will present their projects using slides in 8 minute oral presentations. The presentation should include:
 
-- Background. Describe the problem or area being addressed.
+- Background. Describe the problem or area being addressed, as well as any previous work by other people or organizations that might overlap with the project or be related.
 - Data used. What data did you use? How was it obtained? What are its limitations?
 - Use cases. How users will interact with your system in a way that addresses the problem area.
 - Design. Describe the components and how they interact to accomplish the use cases.
@@ -98,10 +102,11 @@ specification and design specification), including how to run the
 project so that the instructors can understand how to make it work.
 * Uses at least two data sources
 * Code quality, especially consistent coding standard (e.g., ``pylint``).
-* Test coverage
+* Has a `tests` folder and has comprehensive tests, with high test coverage. Note however that test coverage is NOT sufficient on its own - for instance, you must test your code's behavior in addition to edge tests.
 * Quality of the example of using the package (in the examples
 folder of the project repository)
-* Implements continuous integration (e.g., via GitHub actions or travis-CI), and all tests pass (lint, tests, and code coverage).
+* Supports a virtual environment to enable easy collaboration, including how to set up the virtual environment.
+* Implements continuous integration (e.g., via GitHub Actions), and all tests pass (lint, tests, and code coverage). Must also include badges in your project's overall README file reporting your continuous integation status AND code coverage.
 * Completeness of the [setup.py script](https://docs.python.org/3/distutils/introduction.html#an-introduction-to-distutils) or [pyproject.toml](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects)
 * Features implemented (ie the code should be functional, even if the project did not accomplish all the goals that it set out to)
 * Creativity and technical challenge

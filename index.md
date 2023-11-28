@@ -1,26 +1,24 @@
 ---
 layout: home
 title: Home
-collection: winter2023
+collection: winter2024
 ---
 
 ## Instructors
 
 #### Melissa Winstanley (she/her)
-#### Teaching Assistants: Nayantara Mohan (she/her), Amrit Bhat (he/him)
+#### Teaching Assistants: Mithali Shashidhar (she/her), Yash Manne (he/him)
 
 ## Logistics
-#### Days: Tuesdays
+#### Days: Thursdays
 #### Time: 5pm - 8:50pm
-#### Place: OUG 141
+#### Place: L039 400 (45th Street Plaza Building)
 
-**IMPORTANT NOTE ABOUT OUG:** You will be required to show a valid Husky Card to enter the OUG library to get to the classroom.
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; TBD in-person
+#### Mithali's (TA) office hours: TBD
+#### Yash's (TA) office hours: TBD
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; in person Tuesday 4:00-4:50pm in CSE 206, in person and online Friday 3:00-5:30pm
-#### Nayantara's (TA) office hours: Thursday 5:00-6:00pm on Zoom
-#### Amrit's (TA) office hours: Monday 5:00-6:00pm on Zoom
-
-**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/32135)**
+**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/49440)**
 
 If you are feeling sick, please follow these guidelines from the University: <https://www.washington.edu/coronavirus/student-faq/#feelsick>.
 
