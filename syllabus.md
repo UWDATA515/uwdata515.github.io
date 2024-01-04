@@ -4,7 +4,7 @@ title: Syllabus
 collection: winter2024
 ---
 
-[Lecture 1 materials]: <notfound>
+[Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
 [Lecture 2 materials]: <notfound>
 [Lecture 3 materials]: <notfound>
 [Lecture 4 materials]: <notfound>
@@ -14,12 +14,12 @@ collection: winter2024
 [Lecture 8 materials]: <notfound>
 [Lecture 9 materials]: <notfound>
 
-[Homework 1]: <notfound>
+[Homework 1]: https://classroom.github.com/a/LifCOGeT
 [Homework 2]: <notfound>
 [Homework 3]: <notfound>
 [Homework 4]: <notfound>
 [Homework 5]: <notfound>
-[Introductory survey]: <notfound>
+[Introductory survey]: https://canvas.uw.edu/courses/1696112/quizzes/1940041
 [Project proposal survey]: <notfound>
 [Project validation survey]: <notfound>
 [Project survey]: <notfound>
