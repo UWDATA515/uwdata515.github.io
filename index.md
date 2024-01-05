@@ -14,9 +14,9 @@ collection: winter2024
 #### Time: 5pm - 8:50pm
 #### Place: L039 400 (45th Street Plaza Building)
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; TBD in-person
-#### Mithali's (TA) office hours: TBD
-#### Yash's (TA) office hours: TBD
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Thursday 3:00-4:30pm in MSDS space
+#### Mithali's (TA) office hours: Wednesday 3:30-4:30 in MSDS space (or Zoom by appointment)
+#### Yash's (TA) office hours: Tuesday 4:30-5:30 in MSDS space (or Zoom by appointment)
 
 **The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/49440)**
 
