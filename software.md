@@ -58,6 +58,8 @@ We recommend that you use the most recent version of Python 3.  Earlier versions
 
 Anaconda is a system for installing and otherwise managing Python and other software packages. Anaconda installs  See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) for instructions for downloading and installing miniconda for your OS, selecting the Python 3 series installer.
 
+**Windows users: please make sure to install Miniconda on your WSL instance, NOT just your Windows computer, so that you have access to it from within WSL. Follow the command-line instructions for a Linux instance.**
+
 Below are detailed instructions **after** you have installed Miniconda (or the full Anaconda):
 1. Update conda's listing of packages for your system: $``conda update conda``
 2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``

@@ -5,7 +5,7 @@ collection: winter2024
 ---
 
 [Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
-[Lecture 2 materials]: <notfound>
+[Lecture 2 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/02
 [Lecture 3 materials]: <notfound>
 [Lecture 4 materials]: <notfound>
 [Lecture 5 materials]: <notfound>
@@ -15,7 +15,7 @@ collection: winter2024
 [Lecture 9 materials]: <notfound>
 
 [Homework 1]: https://classroom.github.com/a/LifCOGeT
-[Homework 2]: <notfound>
+[Homework 2]: https://classroom.github.com/a/PBBm_awO
 [Homework 3]: <notfound>
 [Homework 4]: <notfound>
 [Homework 5]: <notfound>
