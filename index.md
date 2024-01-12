@@ -16,7 +16,7 @@ collection: winter2024
 
 #### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Thursday 3:00-4:30pm in MSDS space
 #### Mithali's (TA) office hours: Wednesday 3:30-4:30 in MSDS space (or Zoom by appointment)
-#### Yash's (TA) office hours: Tuesday 4:30-5:30 in MSDS space (or Zoom by appointment)
+#### Yash's (TA) office hours: Tuesday 5:00-6:00 in MSDS space (or Zoom by appointment)
 
 **The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/49440)**
 
