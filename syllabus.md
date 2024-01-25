@@ -7,7 +7,7 @@ collection: winter2024
 [Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
 [Lecture 2 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/02
 [Lecture 3 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/03
-[Lecture 4 materials]: <notfound>
+[Lecture 4 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/04
 [Lecture 5 materials]: <notfound>
 [Lecture 6 materials]: <notfound>
 [Lecture 7 materials]: <notfound>
@@ -21,7 +21,7 @@ collection: winter2024
 [Homework 5]: <notfound>
 [Introductory survey]: https://canvas.uw.edu/courses/1696112/quizzes/1940041
 [Project proposal survey]: https://canvas.uw.edu/courses/1696112/assignments/8788713
-[Project validation survey]: <notfound>
+[Project validation survey]: https://canvas.uw.edu/courses/1696112/assignments/8788711
 [Project survey]: <notfound>
 
 [Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=acec365e-0039-4608-a8e7-b0b9011cfe2b
