@@ -27,16 +27,20 @@ You should have **two** data sets so that you can demonstrate an ability to join
 ### Step 2: Define the Problem
 Determine the type of project (e.g., analysis project) and the questions of interest.
 
-### Step 3: Write the Functional Specification
-The functional specification details:
+### Step 3: Write the Specification
+The specification details:
 
 * who are the users and what do they know (e.g., business analyst)
 * what information users want from the system (e.g., where to put bicycles)
 * use cases - how users interact with the system to get the information they want
+* components - what pieces do you need to build
+* milestones
 
 For tool projects, the users are typically programmers, and so the functional specification describes the programming interface.
 
 For research projects, you'll have people using the research tools as well as people consuming the research result.
+
+See below for the details about what design documentswe expect from your functional specifications.
 
 ### Steps 4 and beyond: Iteratively Develop And Refine the Project
 You will organize the project as a set of short-term deliverables. Typically, you focus first on those parts where you have the most uncertainty since projects typically fail because of "unknown unknowns". For some projects, this will be a data-first focus to make sure that your data can answer the questions that you pose. For others, it may be exploring a python package that you hope will provide key features (e.g., visualizations).
@@ -47,8 +51,8 @@ Projects should have a online github repository with the project name. Top level
 * README.md file that gives an overview of the project
 * LICENSE file
 * [setup.py script](https://docs.python.org/3/distutils/introduction.html#an-introduction-to-distutils) or [pyproject.toml](https://packaging.python.org/en/latest/tutorials/packaging-projects/#packaging-python-projects) that initializes the project
-* doc folder that contains documentation (including the functional specification, the design specification, the technology review, and the final project presentation)
-* python package folder (with the same name as the repository) that is structured as one or more python modules (e.g., with `__init__.py` files) and test files that begin with "test_".
+* `docs` folder that contains documentation (including the functional specification, the design specification, the technology review, and the final project presentation)
+* python package folder (with the same name as the repository) that is structured as one or more python modules/subpackages (e.g., with `__init__.py` files) and test files that begin with "test_".
 * examples folder that contains examples of using the packages. An example is a step-by-step walkthrough of how a user would interact with your project - all the users that you've identified as part of your functional specification.
 
 ## Design Documents
@@ -64,15 +68,16 @@ You will create at least two Markdown documents describing the design of your pr
 - **Component Specification**. The document should have sections for.
   - Software components. High level description of the software components such as: *data manager*, which provides a simplified interface to your data and provides application specific features (e.g., querying data subsets); and *visualization manager*, which displays data frames as a plot. Describe at least 3 components specifying: what it does, inputs it requires, and outputs it provides. If you have more significant components in your system, we highly suggest documenting those as well.
   - Interactions to accomplish use cases. Describe how the above software components interact to accomplish your use cases. Include at least one interaction diagram.
-  - Preliminary plan. A list of tasks in priority order.
+
+- **Milestones**. A preliminary plan - a list of milestones, each with a list of tasks in priority order.
 
 ## Technology Review Presentation
 The technology review is about making decisions about the choice of a python library to address a technology need in the project. For example, many projects make use of map visualizations. There are many python libraries that support these visualizations such as Bokeh, Dash, and googlemaps. The libraries have different capbilities, such as what (if any) interactions users can have with the map. You will want to choose a library that: (a) addresses the requirements of your project; (b) is compatible with other elements of your project (e.g., runs on python 3); (c) is relatively easy to use; (d) is computationally efficient for the scale of data you use; and (d) doesn't have software bugs that will impair your use cases.
 
-The technology review is a group presentation. It should be about 8 minutes in length. The presentation should address the following:
+The technology review is a group presentation. It should be at most 8 minutes in length (we'll cut you off!). The presentation should address the following:
 
 - One slide of brief background on the problem you're solving to motivate a technology for which you need a python library (e.g., interactive maps), with the use case for which the technology is required.
-- One slide that describes at least two python libraries that potentially address your technology requirement (name, author, summary, etc).
+- One slide that describes 2-3 (no more) python libraries that potentially address your technology requirement (name, author, summary, etc).
 - One+ slide side-by-side comparisons of the technologies. This will require that you actually install and use the technologies.
 - One slide on the choice you've made and why
 - One slide on the drawbacks or areas of concern on your choice
@@ -91,12 +96,13 @@ Teams will present their projects using slides in 8 minute oral presentations. T
 - Demo. Demonstrate your software. **Do not omit this!** If you don't want to risk a live demo, at least include a screen recording of the demo.
 - Lessons learned and future work. Focus on *software engineering* lessons.
 
-You should add a PDF of your presentation in the docs folder of your project BEFORE the final presentation during finals week, as well as a screen capture recording of your demo (we want this in case there are issues with attaching your computer to the podium during the presentation).
+You should add a PDF of your presentation in the `docs` folder of your project BEFORE the final presentation during finals week, as well as a screen capture recording of your demo (we want this in case there are issues with attaching your computer to the podium during the presentation).
 
 ## Grading Rubric
 Projects will be evaluated based on the following criteria:
 
 * Organized as described in the section on project structure
+* Uses PRs and code reviews
 * Quality of the documentation (especially the functional
 specification and design specification), including how to run the
 project so that the instructors can understand how to make it work.
