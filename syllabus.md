@@ -24,7 +24,7 @@ collection: winter2024
 [Project validation survey]: https://canvas.uw.edu/courses/1696112/assignments/8788711
 [Midpoint feedback]: https://urldefense.com/v3/__https://uw.iasystem.org/survey/284308__;!!K-Hz7m0Vt54!nnSSFBe3p1dh8azo_17JDHgQFgNtS_NT7OTVMvDTFIdJx0FQyXfBd5SauycgGzXVKz90W0nGvdaoAVcS$
 [Guest lecture survey]: https://canvas.uw.edu/courses/1696112/quizzes/1993585
-[Project survey]: <notfound>
+[Project survey]: https://canvas.uw.edu/courses/1696112/quizzes/1940042
 
 [Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=acec365e-0039-4608-a8e7-b0b9011cfe2b
 [Lecture 2 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=85d95b40-97a6-4f95-9b98-b0b9011d01cf
@@ -35,7 +35,6 @@ collection: winter2024
 [Lecture 7 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=bb7c628c-9804-402d-bf7d-b0b9011d1526
 [Lecture 8 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f92544af-9459-4ead-82d9-b0b9011d18a8
 [Lecture 9 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f1a5b645-5d0b-41b8-9c91-b0b9011d1ca4
-[Lecture 10 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=670aca8d-4313-49e8-b84f-b0b9011d2066
 
 Lecture materials (slides, keys, & notes) and recordings will be posted by midnight after class. Homework will be posted just before lecture.
 
@@ -52,8 +51,8 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 | Feb 15    | Standups<br />Debugging ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/debugging_python.ipynb))<br />Exceptions ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/exceptions_in_python.ipynb))<br />Testing ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/python_unit_tests.ipynb))<br />[Lecture recordings][Lecture 7 recordings]<br />[Lecture materials][Lecture 7 materials] |  | [Homework 4][Homework 4]<br />A basic project demo<br />[Guest lecture survey (optional)][Guest lecture survey] | [Project: software & use case design](<projects>) | 
 | Feb 22    | Standups<br />First project demo<br />Advanced Testing ([repository](https://github.com/UWDATA515/testing_example))<br />Documentation & style ([repository](https://github.com/UWDATA515/style_documentation_example/))<br />[Lecture recordings][Lecture 8 recordings]<br />[Lecture materials][Lecture 8 materials] | [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)<br />[Streamlit AppTest](https://docs.streamlit.io/library/advanced-features/app-testing)<br />[PEP8](https://www.python.org/dev/peps/pep-0008/)<br />[Google Python Style Guide](http://google.github.io/styleguide/pyguide.html) | [Homework 5][Homework 5] | [Homework 4][Homework 4]<br />A basic project demo<br />[Guest lecture survey (optional)][Guest lecture survey] | 
 | Feb 29    | Standups<br />Packages<br />Virtual environments<br />Continuous integration<br />[Example CI repository](https://github.com/UWDATA515/ci_example)<br />[Lecture recordings][Lecture 9 recordings]<br />[Lecture materials][Lecture 9 materials] | [Conda environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)<br />[GitHub Actions](https://docs.github.com/en/actions/quickstart)<br />[GitHub Workflows for Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python) |  | [Homework 5][Homework 5] | 
-| Mar 7     | Standups & Group Work<br />Guest lecturer: Data Scientist<br />Group consultations with Melissa/Mithali/Yash |  |  | Project: Practice presentations with course staff (low-stress, just to see how it's going) | 
-| Mar 13    | 5:00pm - 8:00pm. Project presentations. PLEASE UPLOAD presentation & demo to your GitHub repo BEFOREHAND.  |  |  | [Project: presentation and final code (due Wednesday at classtime)](<projects.md>)<br />[Project: survey][Project survey] | 
+| Mar 7     | Standups & Group Work<br />Guest lecturer: Data Scientist<br />Group consultations with Melissa/Mithali/Yash |  | [Project: survey][Project survey] | Project: Practice presentations with course staff (low-stress, just to see how it's going) | 
+| Mar 13    | 5:00pm - 8:00pm. Project presentations. PLEASE UPLOAD presentation & demo to your GitHub repo BEFOREHAND.  |  |  | [Project: presentation and final code (due Wednesday at classtime)](<projects.md>)<br />[Project: survey][Project survey] |
 
 **Access and Accomodations**
 
