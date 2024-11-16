@@ -1,6 +1,6 @@
 ---
 layout: page
-collection: winter2024
+collection: winter2025
 permalink: /notfound
 ---
 

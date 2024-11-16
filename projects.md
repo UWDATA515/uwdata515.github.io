@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-collection: winter2024
+collection: winter2025
 ---
 
 ## Overview

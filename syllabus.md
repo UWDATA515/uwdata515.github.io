@@ -1,58 +1,33 @@
 ---
 layout: page
 title: Syllabus
-collection: winter2024
+collection: winter2025
 ---
 
-[Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
-[Lecture 2 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/02
-[Lecture 3 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/03
-[Lecture 4 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/04
-[Lecture 5 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/05
-[Lecture 6 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/06
-[Lecture 7 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/07
-[Lecture 8 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/08
-[Lecture 9 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/09
+## Course Description
+Scientists, engineers, and other technical professionals require skills in computing and data analysis to do their jobs. We refer to these as data science skills.
 
-[Homework 1]: https://classroom.github.com/a/LifCOGeT
-[Homework 2]: https://classroom.github.com/a/PBBm_awO
-[Homework 3]: https://classroom.github.com/a/-stZVPng
-[Homework 4]: https://classroom.github.com/a/T7DLbZHo
-[Homework 5]: https://classroom.github.com/a/UI7GAz_5
-[Introductory survey]: https://canvas.uw.edu/courses/1696112/quizzes/1940041
-[Project proposal survey]: https://canvas.uw.edu/courses/1696112/assignments/8788713
-[Project validation survey]: https://canvas.uw.edu/courses/1696112/assignments/8788711
-[Midpoint feedback]: https://urldefense.com/v3/__https://uw.iasystem.org/survey/284308__;!!K-Hz7m0Vt54!nnSSFBe3p1dh8azo_17JDHgQFgNtS_NT7OTVMvDTFIdJx0FQyXfBd5SauycgGzXVKz90W0nGvdaoAVcS$
-[Guest lecture survey]: https://canvas.uw.edu/courses/1696112/quizzes/1993585
-[Project survey]: https://canvas.uw.edu/courses/1696112/quizzes/1940042
+Examples of data science skills abound. Biologists search thousands of genomes for DNA sequences with special characteristics, such as genes that transcribe non-coding RNA that is “anti-sense” to messenger RNAs. Astronomers search, integrate, and visualize data from many instruments that produce terabytes of complex data. Social scientists do text analytics on massive repositories of social media data to distill patterns in topics and trends in sentiment.
 
-[Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=acec365e-0039-4608-a8e7-b0b9011cfe2b
-[Lecture 2 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=85d95b40-97a6-4f95-9b98-b0b9011d01cf
-[Lecture 3 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=63566640-7f2a-48c4-a078-b0b9011d04fd
-[Lecture 4 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=b29585bd-2bd3-41e7-924f-b0b9011d08a4
-[Lecture 5 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a34e4302-b6d5-4a67-9fa3-b0b9011d0c40
-[Lecture 6 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=e77d821a-67cf-4ccc-9095-b0b9011d1169
-[Lecture 7 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=bb7c628c-9804-402d-bf7d-b0b9011d1526
-[Lecture 8 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f92544af-9459-4ead-82d9-b0b9011d18a8
-[Lecture 9 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f1a5b645-5d0b-41b8-9c91-b0b9011d1ca4
+This course teaches graduate students the software engineering skills to do research in data science fields and to be successful technical professionals in the 21st Century. In particular, this course teaches how to approach computational research with reproducibility in mind: to create sharable and reusable research projects that incorporate both computation and data.
 
-Lecture materials (slides, keys, & notes) and recordings will be posted by midnight after class. Homework will be posted just before lecture.
+Students will learn the following skills:
 
-**Homework is due by 4:59pm on the date that it is posted as "due", unless otherwise noted.**
+- Developing software in a way that it can be used by others, including documentation, installing packages, automating setup, and running computational studies.
+- Creating technical specifications for what a program should do (its use cases) and how this is accomplished (software design).
+- Creating, updating, and sharing a project using version control (specifically GitHub) and collaborating effectively with teammates.
+- Asking good questions and solving technical problems independently using the internet, peers, and mentors.
+- Programming in python using the Python scientific stack, including numpy, pandas, and matplotlib.
+- Developing tests that validate important aspects of the project implementation, and, more broadly, using test-driven development to build software.
+- Researching, evaluating, and integrating into a project an externally developed Python packages as well as creating your own Python packages.
 
-| Day      | Topic                                                         | References       | Assigned | Due (Thu @ 4:59PM Pacific)    |
-|:----------|:----------------|:---------------|:-------------------|:-------------------|
-| Jan 4     | Course introduction<br />Asking questions<br />Command line<br />Introductory git<br />[Lecture recordings][Lecture 1 recordings]<br />[Lecture materials][Lecture 1 materials] | [Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) | [Install required software](<software>)<br />[Homework 1][Homework 1]<br />[Introductory Survey][Introductory Survey] | | 
-| Jan 11    | Jupyter notebooks & math ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/jupyter_and_python_breakout.ipynb))<br />Python basics ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/python_vars_and_flow_control.ipynb))<br />Pandas ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/data_manipulation.ipynb))<br />[Lecture recordings][Lecture 2 recordings]<br />[Lecture materials][Lecture 2 materials] | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)<br />[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  | [Homework 2][Homework 2] | [Homework 1][Homework 1]<br />[Introductory Survey][Introductory Survey] |
-| Jan 18    | Python functions ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_functions.ipynb))<br />Python modules ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_modules.ipynb))<br />Python I/O ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_files_io.ipynb))<br />Interfaces & specifications<br />Project overview<br />[Lecture recordings][Lecture 3 recordings]<br />[Lecture materials][Lecture 3 materials] |  | [Homework 3][Homework 3]<br />[Project: proposals][Project proposal survey] | [Homework 2][Homework 2] |
-| Jan 25     | Project proposals<br />Team formation<br />Git & team collaboration<br />Modules & imports<br />[Lecture recordings][Lecture 4 recordings]<br />[Lecture materials][Lecture 4 materials] |  | [Project: GitHub repository & idea validation][Project validation survey] | [Homework 3][Homework 3]<br />[Project: proposals][Project proposal survey] (**due before class! 12pm**) | 
-| Feb 1    | Finish up modules & packages ([link to download code](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/05/download_sample_code.sh))<br />Software & use case design (group work)<br />Technology reviews (lecture)<br />[Lecture recordings][Lecture 5 recordings]<br />[Lecture materials][Lecture 5 materials] | [Sequence Diagram tool](https://www.websequencediagrams.com/)<br />[diagrams.net](https://app.diagrams.net/) | [Midpoint feedback][Midpoint feedback]<br />[Project: Technology reviews](https://github.com/UWDATA515/lecture-materials/blob/main/05/DATA515_05_TechnologyReviews.pdf)<br />[Project: software & use case design](<projects>) | [Project: GitHub repository & idea validation][Project validation survey] | 
-| Feb 8    | Standups<br />Technology reviews (presentations)<br />Software design (Part 2)<br />[Lecture recordings][Lecture 6 recordings]<br />[Lecture materials][Lecture 6 materials] | [Wikipedia on design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)<br />[Python Patterns Guide](https://python-patterns.guide/)<br />["Gang of Four" Design Patterns book](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) |  | [Midpoint feedback][Midpoint feedback]<br />[Project: Technology reviews](https://github.com/UWDATA515/lecture-materials/blob/main/05/DATA515_05_TechnologyReviews.pdf) | 
-| Feb 15    | Standups<br />Debugging ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/debugging_python.ipynb))<br />Exceptions ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/exceptions_in_python.ipynb))<br />Testing ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/python_unit_tests.ipynb))<br />[Lecture recordings][Lecture 7 recordings]<br />[Lecture materials][Lecture 7 materials] |  | [Homework 4][Homework 4]<br />A basic project demo<br />[Guest lecture survey (optional)][Guest lecture survey] | [Project: software & use case design](<projects>) | 
-| Feb 22    | Standups<br />First project demo<br />Advanced Testing ([repository](https://github.com/UWDATA515/testing_example))<br />Documentation & style ([repository](https://github.com/UWDATA515/style_documentation_example/))<br />[Lecture recordings][Lecture 8 recordings]<br />[Lecture materials][Lecture 8 materials] | [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)<br />[Streamlit AppTest](https://docs.streamlit.io/library/advanced-features/app-testing)<br />[PEP8](https://www.python.org/dev/peps/pep-0008/)<br />[Google Python Style Guide](http://google.github.io/styleguide/pyguide.html) | [Homework 5][Homework 5] | [Homework 4][Homework 4]<br />A basic project demo<br />[Guest lecture survey (optional)][Guest lecture survey] | 
-| Feb 29    | Standups<br />Packages<br />Virtual environments<br />Continuous integration<br />[Example CI repository](https://github.com/UWDATA515/ci_example)<br />[Lecture recordings][Lecture 9 recordings]<br />[Lecture materials][Lecture 9 materials] | [Conda environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)<br />[GitHub Actions](https://docs.github.com/en/actions/quickstart)<br />[GitHub Workflows for Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python) |  | [Homework 5][Homework 5] | 
-| Mar 7     | Standups & Group Work<br />Guest lecturer: Data Scientist<br />Group consultations with Melissa/Mithali/Yash |  | [Project: survey][Project survey] | Project: Practice presentations with course staff (low-stress, just to see how it's going) | 
-| Mar 13    | 5:00pm - 8:00pm. Project presentations. PLEASE UPLOAD presentation & demo to your GitHub repo BEFOREHAND.  |  |  | [Project: presentation and final code (due Wednesday at classtime)](<projects.md>)<br />[Project: survey][Project survey] |
+The course emphasizes a hands-on learning approach in which class time is often used for problem solving in small groups. The first part of the class teaches the skills described above. The second part is devoted to the class project, creating a computational research project of their choosing.
+
+Some prior computing experience is desirable. For example, we expect that given a CSV file you can open it and plot the data in a language like MATLAB, IDL, R, or Python.  A Software Carpentry bootcamp, Codeacademy, or similar MOOC would be appropriate venues to learn these skills.  Lessons include, e.g.:
+
+- Using the shell (command line): <http://swcarpentry.github.io/shell-novice/>
+- General Python overview: <http://swcarpentry.github.io/python-novice-inflammation/>
+
 
 **Access and Accomodations**
 

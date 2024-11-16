@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-collection: winter2024
+collection: winter2025
 ---
 
 ## Course Grade
