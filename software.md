@@ -33,7 +33,7 @@ Some tips:
 
 ## 2. Ensure that Git is installed.
 
-Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`.
+Type `git --version` into the terminal. If the terminal prints out any version number, you are successful. For example, my Macbook Pro returns `git version 2.24.1 (Apple Git-126)` and my Windows 10 WSL system returns `s`. You MUST have git working on your terminal for this course. Please come into office hours if you can't get it to work.
 
 ### Mac OS Note: Some students reported an error with ``git``:
 ```

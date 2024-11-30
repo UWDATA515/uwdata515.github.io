@@ -102,7 +102,7 @@ You should add a PDF of your presentation in the `docs` folder of your project B
 Projects will be evaluated based on the following criteria:
 
 * Organized as described in the section on project structure
-* Uses PRs and code reviews
+* Uses PRs (with good descriptions and test plans) and code reviews.
 * Quality of the documentation (especially the functional
 specification and design specification), including how to run the
 project so that the instructors can understand how to make it work.
