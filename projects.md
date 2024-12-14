@@ -133,15 +133,13 @@ at the end of the quarter.
 ## Examples of previous projects
 These examples are fantastic, though they may not be perfect. They should be considered examples of what kinds of projects are possible and not necessarily examples to be precisely emulated.  The examples below include an analysis project, a visualization project and a reusable data project.
 
-### Spring, 2018
-* [Crash Data Analysis Tools](https://github.com/johnash1990/crashDataAnalysisTools) - This set of tools takes several different traffic data sets and merges them as well as providing an easy interface for interacting with the data.
+### Winter 2024
+* [Box Office Prediction](https://github.com/c0zimb4tm4n/box-office-prediction) - an innovative tool designed to aid the movie production industry. Aimed at producers, directors, casting directors, and industry insiders, this tool leverages predictive analytics to forecast the potential revenue of movies that are still in the conceptual phase.
+* [TLDhubeR](https://github.com/apeled/TLDhubeR) - an application that allows users to search for and summarize content in the Huberman Lab Podcast using a chat interface, all from the comfort of their browser.
 
-### Spring, 2017
-* [First Stop](https://github.com/sliwhu/UWHousingTeam) - First Stop for First-time home buyers; This tool would be most helpful to first-time home buyers to set up expectations, plan budgets and make an informed decision on expenses before they even go through the exhaustive house-hunting process given current real-estate market status.
-* [Searching For Success](https://github.com/khyatiparekh/Searching-for-Success) is a template project that can help an amateur investor to visualize search trends on Google for selected company and get probability that the stock price will increase when the quarterly reports will be released for that company.
-* [Ax/Wx](https://github.com/rexthompson/axwx) - Ax/Wx is a collision and weather analysis tool that can enhance the WSP collision database with objective observations from nearby personal weather stations.
-* [HomeIn](https://github.com/hanghu/HomeIn) - HomeIn provides a visualization tool for housing data, prices, and crime rates on a multiple-layered map.
-* [How is Uber changing Taxi in New York City?](https://github.com/HWNi/DATA515-Project) Uber is a new riding model which connects drivers and passengers and provides ride-sharing service with a fair rate. This visualization tool enable user to analyze and compare Uber and taxi traffic of neighbors in NYC.
-* [AirbnbViz](https://github.com/wangbeiqi199159/AirbnbVizTool) aims to provide more information and insights to guests of Airbnb in Seattle to help them have a deeper understanding of what factors influence the listing price most, which neighborhood has higher/lower listing price and which neighborhood has higher and lower guests' rating via our different interactive visualizations. On the other hand, As hosts of Airbnb, they will have more idaes that how other hosts priced around them relative to dimensions such as amenities and location and what is the average listing prices of different neighborhoods in Seattle.
+### Winter 2025
+* [Smogon API](https://github.com/ramirostUW/SmogonAPI) - This is an example of a **tool project**. It provides an API to access Pokemon data from the Smogon platform.
+* [UW Alerts](https://github.com/evanyfyip/uw-alert-web) - A web application and visualization of the UW campus and surrounding area that parses real-time information from the UW alerts system and displays the alert's origin. Also explores alert trends over time and location.
+* [Wisconsin Wolf Analysis](https://github.com/mohammap22/WisconsinWolfAnalysis) - This **analysis project** explores the wolf population in Wisconsin and its impacts on the local ecosystem.
 
 **ALL INFORMATION MUST BE POSTED TO YOUR REPO BY THE DEADLINE**
