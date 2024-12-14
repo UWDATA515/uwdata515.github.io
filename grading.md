@@ -43,7 +43,7 @@ as they are before the homework due date.
 
 Class participation will be graded based on project-related presentations, participation in polling in and outside of class, and participation in in-class activities. If you will be absent from a class in which we have group work or presentations/demos (noted on the syllabus), please let the instructor know.
 
-We expect that everyone has presented part of their group's presentation (tech review, practice presentation / summary, final presentation).
+We expect that everyone has presented part of their group's presentation (practice presentation / summary, final presentation).
 
 ## Course Project
 
