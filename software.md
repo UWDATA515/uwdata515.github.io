@@ -79,3 +79,30 @@ MacOS doesn't have a pre-installed package manager for their Unix programs. The 
 Students can also select a graphical text editor of their choice, such as Notebook (Windows), vim (all platforms), Sublime (all platforms), or Visual Studio Code (all platforms). A text editor is different from word processing programs, like MS Word, in that text editors often recognize program syntax and do no formatting.
 
 If you'd also like a graphical text editor but don't already have a favorite, we recommend installing either [atom](http://atom.io/) or [Sublime](http://www.sublimetext.com/), which are both available for all platforms.
+
+## 5. Setting Up GitLab 
+We will be using GitLab to submit homework and give feedback. GitLab is a web-based git hosting service that is similar to GitHub but hosted locally by the Computer Science Department. 
+
+These steps are error-prone and hard to get right the first time. Please ask for help if you get stuck!
+
+### Generating an SSH key 
+Before you can clone from GitLab, you will need to create an SSH key. SSH is a protocol supported by git to access GitLab securely and without password authentication.
+
+You might be able to skip this entire section if you have already done this for another course. To check if you already have a key generated:
+
+1. Open a terminal and run the following command: ``ls ~/.ssh``
+1. If you see a file called `id_ed25519.pub` or `id_rsa.pub`, that is your public SSH key. You can now proceed to the next section. Otherwise, continue on.
+
+To generate a new SSH key:
+
+1. Open your terminal and run the following command: ``ssh-keygen -t ed25519``
+1. Next, you will be prompted to input a file path to save your SSH key pair to. If you don’t already have an SSH key pair, use the suggested path by pressing ``Enter``. Using the suggested path will normally allow your SSH client to automatically use the SSH key pair with no additional configuration.
+1. Once the path is decided, you will be prompted to input a password to secure your new SSH key pair. It’s not required. If you don’t want to enter your password every time you use Git, you can skip creating it by pressing ``Enter`` twice.
+
+### Adding SSH to your GitLab account
+If you are using GitLab for the first time, you will need to submit your SSH key. To do this, follow these steps: 
+
+1. Open a terminal and execute (replace with `id_rsa.pub` if needed): ``cat ~/.ssh/id_ed25519.pub``
+   This will print out the public key that you just generated.
+1. Visit GitLab’s SSH key management page by going to https://gitlab.cs.washington.edu/-/profile/keys. Paste your key into the box, and the rest of the fields should be filled in automatically. Press ``Add key``.
+1. In the terminal, run ``ssh -T git@gitlab.cs.washington.edu`` to ensure that your key is correctly set up. You should receive a welcome message and should not be prompted for a password.
