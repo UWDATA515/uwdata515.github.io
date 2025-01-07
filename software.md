@@ -104,5 +104,5 @@ If you are using GitLab for the first time, you will need to submit your SSH key
 
 1. Open a terminal and execute (replace with `id_rsa.pub` if needed): ``cat ~/.ssh/id_ed25519.pub``
    This will print out the public key that you just generated.
-1. Visit GitLab’s SSH key management page by going to https://gitlab.cs.washington.edu/-/profile/keys. Paste your key into the box, and the rest of the fields should be filled in automatically. Press ``Add key``.
+1. Visit GitLab’s SSH key management page by going to https://gitlab.cs.washington.edu/-/user_settings/ssh_keys. Click ``Add new key`` and paste your key into the box, and the rest of the fields should be filled in automatically. Press ``Add key``.
 1. In the terminal, run ``ssh -T git@gitlab.cs.washington.edu`` to ensure that your key is correctly set up. You should receive a welcome message and should not be prompted for a password.
