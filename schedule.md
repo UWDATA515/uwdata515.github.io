@@ -4,7 +4,7 @@ title: Schedule
 collection: winter2025
 ---
 
-[Lecture 1 materials]: <notfound>
+[Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
 [Lecture 2 materials]: <notfound>
 [Lecture 3 materials]: <notfound>
 [Lecture 4 materials]: <notfound>
@@ -15,7 +15,7 @@ collection: winter2025
 [Lecture 9 materials]: <notfound>
 [Lecture 10 materials]: <notfound>
 
-[Homework 1]: <notfound>
+[Homework 1]: https://www.gradescope.com/courses/918720/assignments/5384690
 [Homework 1 Regrade]: <notfound>
 [Homework 2]: <notfound>
 [Homework 2 Regrade]: <notfound>
