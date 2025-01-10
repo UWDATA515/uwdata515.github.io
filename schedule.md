@@ -31,7 +31,7 @@ collection: winter2025
 [Guest lecture survey]: <notfound>
 [Project survey]: <notfound>
 
-[Lecture 1 recordings]: <notfound>
+[Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2b818538-81aa-49a7-849d-b260018386c7
 [Lecture 2 recordings]: <notfound>
 [Lecture 3 recordings]: <notfound>
 [Lecture 4 recordings]: <notfound>

@@ -14,8 +14,8 @@ collection: winter2025
 #### Time: 5pm - 8:50pm
 #### Place: L039 400 (45th Street Plaza Building)
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; TBD in MSDS space
-#### Baisakhi's (TA) office hours: TBD in MSDS space (or Zoom by appointment)
+#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Tuesday 6-8pm on Zoom ONLY; Thursday 3:30-4:30 in MSDS space
+#### Baisakhi's (TA) office hours: Mondays 5-7pm in MSDS space (or Zoom by appointment)
 
 **The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/69417)**
 
