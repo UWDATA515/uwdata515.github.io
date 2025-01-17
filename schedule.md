@@ -5,7 +5,7 @@ collection: winter2025
 ---
 
 [Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
-[Lecture 2 materials]: <notfound>
+[Lecture 2 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/02
 [Lecture 3 materials]: <notfound>
 [Lecture 4 materials]: <notfound>
 [Lecture 5 materials]: <notfound>
@@ -17,7 +17,7 @@ collection: winter2025
 
 [Homework 1]: https://www.gradescope.com/courses/918720/assignments/5384690
 [Homework 1 Regrade]: <notfound>
-[Homework 2]: <notfound>
+[Homework 2]: https://www.gradescope.com/courses/918720/assignments/5603100
 [Homework 2 Regrade]: <notfound>
 [Homework 3]: <notfound>
 [Homework 3 Regrade]: <notfound>
@@ -32,7 +32,7 @@ collection: winter2025
 [Project survey]: <notfound>
 
 [Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2b818538-81aa-49a7-849d-b260018386c7
-[Lecture 2 recordings]: <notfound>
+[Lecture 2 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9d0dd344-39fc-4e8a-a17f-b2600183a6a6
 [Lecture 3 recordings]: <notfound>
 [Lecture 4 recordings]: <notfound>
 [Lecture 5 recordings]: <notfound>
@@ -51,7 +51,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 | Day      | Topic                                                         | References       | Assigned | Due (Thu @ 4:59PM Pacific)    |
 |:----------|:----------------|:---------------|:-------------------|:-------------------|
 | Jan 9     | Course introduction<br />Asking questions<br />Command line<br />Introductory git<br />[Lecture recordings][Lecture 1 recordings]<br />[Lecture materials][Lecture 1 materials] | [bash cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)<br />[Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) | [Install required software](<software>)<br />[Homework 1][Homework 1] | | 
-| Jan 16    | Jupyter notebooks & math ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/jupyter_and_python_breakout.ipynb))<br />Python basics ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/python_vars_and_flow_control.ipynb))<br />Pandas ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/data_manipulation.ipynb))<br />[Lecture recordings][Lecture 2 recordings]<br />[Lecture materials][Lecture 2 materials] | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)<br />[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  | [Homework 2][Homework 2] | [Homework 1][Homework 1] |
+| Jan 16    | Jupyter notebooks & math ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/jupyter_and_python_breakout.ipynb))<br />Python basics ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/python_vars_and_flow_control.ipynb))<br />Pandas ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/data_manipulation.ipynb))<br />More python exercises ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/02/more_python.ipynb))<br />[Lecture recordings][Lecture 2 recordings]<br />[Lecture materials][Lecture 2 materials] | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)<br />[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  | [Homework 2][Homework 2] | [Homework 1][Homework 1] |
 | Jan 23    | Python functions ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_functions.ipynb))<br />Python modules ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_modules.ipynb))<br />Python I/O ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/03/python_files_io.ipynb))<br />Interfaces & specifications<br />Project overview<br />[Lecture recordings][Lecture 3 recordings]<br />[Lecture materials][Lecture 3 materials] |  | [Homework 3][Homework 3]<br />[Project: proposals][Project proposal survey] | [Homework 2][Homework 2] |
 | Jan 30     | Debugging ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/debugging_python.ipynb))<br />Exceptions ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/exceptions_in_python.ipynb))<br />Testing ([notebook](https://raw.githubusercontent.com/UWDATA515/lecture-materials/main/07/python_unit_tests.ipynb))<br />[Lecture recordings][Lecture 4 recordings]<br />[Lecture materials][Lecture 4 materials] | | [Homework 4][Homework 4] | [Homework 3][Homework 3] |
 | Feb 6 (P)   | Project proposals<br />Team formation<br />Git & team collaboration<br />Modules & imports<br />[Lecture recordings][Lecture 5 recordings]<br />[Lecture materials][Lecture 5 materials] | [Project: GitHub repository & idea validation][Project validation survey] | | [Homework 4][Homework 4]<br />[Project: proposals][Project proposal survey] (**due before class! 12pm**) | 
