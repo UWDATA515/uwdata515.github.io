@@ -84,13 +84,13 @@ The writeup should be a **Markdown document** and include the following componen
 - The final choice you've made and why.
 - Description of the drawbacks or areas of concern on your choice.
 
-The demo should be either a screen recording or output as a result of you using the package, for example input=>code=>output, or a visual demonstration. Be prepared to demonstrate the package live to instructors during the "First Project Demo" in Lecutre 8.
+The demo should be either a screen recording or output as a result of you using the package, for example input=>code=>output, or a visual demonstration. Be prepared to demonstrate the package live to instructors during the "First Project Demo" in Lecture 8.
 
 Upload both the writeup and the demo to a `docs/technology_review` folder in your GitHub repository.
 
 ## Final Project Presentation
 
-Teams will present their projects using slides in 8 minute oral presentations. We are STRICT on this time limit, and we will cut you off if you go over. We STRONGLY RECOMMEND that you practice your presentation beforehand. The presentation should include:
+Teams will present their projects using slides in 10 minute oral presentations. We are STRICT on this time limit, and we will cut you off if you go over. We STRONGLY RECOMMEND that you practice your presentation beforehand. The presentation should include:
 
 - Background. Describe the problem or area being addressed, as well as any previous work by other people or organizations that might overlap with the project or be related.
 - Data used. What data did you use? How was it obtained? What are its limitations?
@@ -137,7 +137,7 @@ These examples are fantastic, though they may not be perfect. They should be con
 * [Box Office Prediction](https://github.com/c0zimb4tm4n/box-office-prediction) - an innovative tool designed to aid the movie production industry. Aimed at producers, directors, casting directors, and industry insiders, this tool leverages predictive analytics to forecast the potential revenue of movies that are still in the conceptual phase.
 * [TLDhubeR](https://github.com/apeled/TLDhubeR) - an application that allows users to search for and summarize content in the Huberman Lab Podcast using a chat interface, all from the comfort of their browser.
 
-### Winter 2025
+### Winter 2023
 * [Smogon API](https://github.com/ramirostUW/SmogonAPI) - This is an example of a **tool project**. It provides an API to access Pokemon data from the Smogon platform.
 * [UW Alerts](https://github.com/evanyfyip/uw-alert-web) - A web application and visualization of the UW campus and surrounding area that parses real-time information from the UW alerts system and displays the alert's origin. Also explores alert trends over time and location.
 * [Wisconsin Wolf Analysis](https://github.com/mohammap22/WisconsinWolfAnalysis) - This **analysis project** explores the wolf population in Wisconsin and its impacts on the local ecosystem.
