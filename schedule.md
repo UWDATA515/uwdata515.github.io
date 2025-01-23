@@ -6,7 +6,7 @@ collection: winter2025
 
 [Lecture 1 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/01
 [Lecture 2 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/02
-[Lecture 3 materials]: <notfound>
+[Lecture 3 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/03
 [Lecture 4 materials]: <notfound>
 [Lecture 5 materials]: <notfound>
 [Lecture 6 materials]: <notfound>
@@ -19,7 +19,7 @@ collection: winter2025
 [Homework 1 Regrade]: https://www.gradescope.com/courses/918720/assignments/5618777
 [Homework 2]: https://www.gradescope.com/courses/918720/assignments/5603100
 [Homework 2 Regrade]: <notfound>
-[Homework 3]: <notfound>
+[Homework 3]: https://www.gradescope.com/courses/918720/assignments/5661832
 [Homework 3 Regrade]: <notfound>
 [Homework 4]: <notfound>
 [Homework 4 Regrade]: <notfound>
@@ -33,7 +33,7 @@ collection: winter2025
 
 [Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2b818538-81aa-49a7-849d-b260018386c7
 [Lecture 2 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9d0dd344-39fc-4e8a-a17f-b2600183a6a6
-[Lecture 3 recordings]: <notfound>
+[Lecture 3 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=c2d60157-ab80-454d-bfe6-b2600183aa7c
 [Lecture 4 recordings]: <notfound>
 [Lecture 5 recordings]: <notfound>
 [Lecture 6 recordings]: <notfound>
