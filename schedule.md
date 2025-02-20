@@ -10,7 +10,7 @@ collection: winter2025
 [Lecture 4 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/04
 [Lecture 5 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/05
 [Lecture 6 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/06
-[Lecture 7 materials]: <notfound>
+[Lecture 7 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/07
 [Lecture 8 materials]: <notfound>
 [Lecture 9 materials]: <notfound>
 [Lecture 10 materials]: <notfound>
@@ -37,7 +37,7 @@ collection: winter2025
 [Lecture 4 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=509779e3-0168-41f5-b8eb-b2600183adcd
 [Lecture 5 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ebc6ca49-7ec6-46ea-9e93-b2600183b13f
 [Lecture 6 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=dbc2e6cd-d518-449c-ae23-b2600183b49b
-[Lecture 7 recordings]: <notfound>
+[Lecture 7 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=16dede02-ff68-497f-869f-b2600183b7b0
 [Lecture 8 recordings]: <notfound>
 [Lecture 9 recordings]: <notfound>
 [Lecture 10 recordings]: <notfound>
