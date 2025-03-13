@@ -13,7 +13,7 @@ collection: winter2025
 [Lecture 7 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/07
 [Lecture 8 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/08
 [Lecture 9 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/09
-[Lecture 10 materials]: <notfound>
+[Lecture 10 materials]: https://github.com/UWDATA515/lecture-materials/tree/main/10
 
 [Homework 1]: https://www.gradescope.com/courses/918720/assignments/5384690
 [Homework 1 Regrade]: https://www.gradescope.com/courses/918720/assignments/5618777
@@ -29,7 +29,8 @@ collection: winter2025
 [Project validation survey]: https://canvas.uw.edu/courses/1786191/assignments/10082233
 [Midpoint feedback]: <notfound>
 [Guest lecture survey]: <notfound>
-[Project survey]: <notfound>
+[Project survey]: https://www.gradescope.com/courses/918720/assignments/5931515
+[Course evaluations]: https://urldefense.com/v3/__https://uw.iasystem.org/survey/301854__;!!K-Hz7m0Vt54!mTzXSIRPVVaN18hYaVMr9OlMSpJYb1onctanBeUPiIcDoKvKYWUyBQg39j_TkJEBiaEnPSfq-oQIWU-U$
 
 [Lecture 1 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=2b818538-81aa-49a7-849d-b260018386c7
 [Lecture 2 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9d0dd344-39fc-4e8a-a17f-b2600183a6a6
@@ -40,7 +41,7 @@ collection: winter2025
 [Lecture 7 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=16dede02-ff68-497f-869f-b2600183b7b0
 [Lecture 8 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=e003326d-d179-4750-b623-b2600183ba61
 [Lecture 9 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=7fe6e8e9-a19b-488f-9f29-b2600183bdf7
-[Lecture 10 recordings]: <notfound>
+[Lecture 10 recordings]: https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4cd28430-217e-4a49-adc9-b2600183c132
 
 Lecture materials (slides, keys, & notes) and recordings will be posted by midnight after class. Homework will be posted just before lecture.
 
@@ -59,5 +60,5 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 | Feb 20    | Standups<br />Virtual environments<br />Continuous integration<br />[Example CI repository](https://github.com/UWDATA515/ci_example)<br />[Lecture recordings][Lecture 7 recordings]<br />[Lecture materials][Lecture 7 materials] | [Conda environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)<br />[GitHub Actions](https://docs.github.com/en/actions/quickstart)<br />[GitHub Workflows for Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python) | [Project: Continuous Integration](<projects>) | [Project: software & use case design](https://uwdata515.github.io/projects.html#design-documents)<br />[Homework 4 Regrade][Homework 4 Regrade] (**due 12pm Saturday 2/22**) | 
 | Feb 27 (P)   | Standups<br />First project demo<br />Documentation & style ([repository](https://github.com/UWDATA515/style_documentation_example/))<br />[Lecture recordings][Lecture 8 recordings]<br />[Lecture materials][Lecture 8 materials] | [PEP8](https://www.python.org/dev/peps/pep-0008/)<br />[Google Python Style Guide](http://google.github.io/styleguide/pyguide.html) | [Homework 5][Homework 5] | [Project: Continuous Integration](<projects>)<br />A basic project demo<br />[Project: Technology reviews](https://uwdata515.github.io/projects.html#technology-review) | 
 | Mar 6 (P)   | Standups<br />Packages<br />Advanced Testing<br />Software design (Part 2) ([repository](https://github.com/UWDATA515/testing_example))<br />[Lecture recordings][Lecture 9 recordings]<br />[Lecture materials][Lecture 9 materials] | [Python packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/)<br />[setuptools](https://setuptools.pypa.io/en/latest/userguide/index.html)<br />[unittest.mock](https://docs.python.org/3/library/unittest.mock.html)<br />[Streamlit AppTest](https://docs.streamlit.io/library/advanced-features/app-testing)<br />[Wikipedia on design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)<br />[Python Patterns Guide](https://python-patterns.guide/)<br />["Gang of Four" Design Patterns book](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) |  | [Homework 5][Homework 5] | 
-| Mar 13 (P)    | Standups & Group Work<br />Giving presentations<br />Real-world tools<br />Group consultations with Melissa/Baisakhi<br />[Lecture recordings][Lecture 10 recordings]<br />[Lecture materials][Lecture 10 materials] |  | [Project: survey][Project survey] | Project: Practice presentations with course staff (low-stress, just to see how it's going) | 
+| Mar 13 (P)    | Standups & Group Work<br />Software design patterns<br />Giving presentations<br />Secrets<br />Group consultations with Melissa/Baisakhi<br />[Lecture recordings][Lecture 10 recordings]<br />[Lecture materials][Lecture 10 materials] | [dotenv](https://pypi.org/project/python-dotenv/)<br />[streamlit secrets.toml](https://docs.streamlit.io/develop/concepts/connections/secrets-management)<br />[Secrets in GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions) | [Project: survey][Project survey]<br />[Course evaluations][Course evaluations] | Project: Practice presentations with course staff (low-stress, just to see how it's going) | 
 | Mar 20 (P)     | 5:00pm - 8:00pm. Project presentations. PLEASE UPLOAD presentation & demo to your GitHub repo BEFOREHAND.  |  |  | [Project: presentation and final code (due Thursday at classtime)](<projects.md>)<br />[Project: survey][Project survey] |
