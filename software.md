@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-collection: winter2025
+collection: winter2026
 ---
 
 The course makes use of a number of software packages that students will install on their computers.

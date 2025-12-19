@@ -1,22 +1,22 @@
 ---
 layout: home
 title: Home
-collection: winter2025
+collection: winter2026
 ---
 
 ## Instructors
 
-#### Melissa Winstanley (she/her)
-#### Teaching Assistants: Baisakhi Sarkar (she/her)
+#### Naomi Alterman (she/her)
+#### Teaching Assistants: Riyosha Sharma (she/her)
 
 ## Logistics
-#### Days: Thursdays
+#### Days: Tuesdays
 #### Time: 5pm - 8:50pm
 #### Place: L039 400 (45th Street Plaza Building)
 
-#### Melissa's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Tuesday 6-8pm on Zoom ONLY; Thursday 3:30-4:30 in MSDS space
-#### Baisakhi's (TA) office hours: Mondays 5-7pm in MSDS space (or Zoom by appointment)
+#### Naomi's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Tuesady 3:30-4:30 in MSDS space
+#### Baisakhi's (TA) office hours: TODO
 
-**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/69417)**
+**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/TODO)**
 
-If you are feeling sick, please follow these guidelines from the University: <https://www.washington.edu/coronavirus/student-faq/#feelsick>.
+If you are feeling sick, please follow these guidelines from the University: <https://www.ehs.washington.edu/communicable-diseases/respiratory-illness-and-exposure-guidance>.

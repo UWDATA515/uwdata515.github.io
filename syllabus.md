@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-collection: winter2025
+collection: winter2026
 ---
 
 ## Course Description
