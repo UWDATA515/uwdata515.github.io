@@ -14,7 +14,7 @@ collection: winter2026
 #### Time: 5pm - 8:50pm
 #### Place: L039 400 (45th Street Plaza Building)
 
-#### Naomi's office hours: flexible for students, by appointment via mwinst AT uw.edu on Zoom; Tuesady 3:30-4:30 in MSDS space
+#### Naomi's office hours: Tuesday 3:30-4:30 in MSDS space, or by appointment (email naomila at uw dot edu)
 #### Baisakhi's (TA) office hours: TODO
 
 **The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/TODO)**
