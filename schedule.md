@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-collection: winter2025
+collection: winter2026
 ---
 
 [Lecture 1 materials]: <notfound>
