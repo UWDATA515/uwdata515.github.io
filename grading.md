@@ -25,7 +25,7 @@ Course project: 50%
 * **Grading procedure:** The instructors will respond to the homework on Gradescope, often using an autograder. You should receive an email when grades are available.
 * **Regrades:** You will have one week from the posting of the assignment grades to revise your homework by updating the Gitlab repository with any necessary changes and submitting your updated repository to the regrade homework assignment on Gradescope (eg Homework 1 Regrade). Regrades are to help with your learning, NOT to aid in procrastination. Use office hours to help you understand your mistakes if you do not already. You may request at most ONE regrade per homework assignment - please make sure you validate your code and understand the autograder failures or instructor comments before requesting the regrade. Your score will never decrease as a result of requesting a regrade.
 
-Instructions for using Gitlab and Gradescope.
+### Instructions for using Gitlab and Gradescope.
 
 1. You should receive an email about a Gitlab repository being created for you for each assignment (eg hw1-pikachu)
 1. Clone the repository on your machine.
