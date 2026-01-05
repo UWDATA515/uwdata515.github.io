@@ -17,6 +17,6 @@ collection: winter2026
 #### Naomi's office hours: Tuesday 3:30-4:30 in MSDS space, or by appointment (email naomila at uw dot edu)
 #### Riyosha's (TA) office hours: TODO
 
-**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/TODO)**
+**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/90848)**
 
 If you are feeling sick, please follow these guidelines from the University: <https://www.ehs.washington.edu/communicable-diseases/respiratory-illness-and-exposure-guidance>.
