@@ -5,7 +5,7 @@ collection: winter2026
 ---
 
 [Lecture 1 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/01>
-[Lecture 2 materials]: <notfound>
+[Lecture 2 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/02>
 [Lecture 3 materials]: <notfound>
 [Lecture 4 materials]: <notfound>
 [Lecture 5 materials]: <notfound>
@@ -16,7 +16,7 @@ collection: winter2026
 [Lecture 10 materials]: <notfound>
 
 [Homework 1]: <https://www.gradescope.com/courses/1210012/assignments/7380851>
-[Homework 2]: <notfound>
+[Homework 2]: <https://www.gradescope.com/courses/1210012/assignments/7380855>
 [Homework 3]: <notfound>
 [Homework 4]: <notfound>
 [Homework 5]: <notfound>
@@ -27,7 +27,7 @@ collection: winter2026
 [Project survey]: <notfound>
 [Course evaluations]: <notfound>
 
-[Lecture 1 recordings]: <notfound>
+[Lecture 1 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e45ac-477e-4daf-8429-b3cc000e005c>
 [Lecture 2 recordings]: <notfound>
 [Lecture 3 recordings]: <notfound>
 [Lecture 4 recordings]: <notfound>
@@ -46,7 +46,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 | Day      | Topic                                                         | References       | Assigned | Due (Tue @ 4:59PM Pacific)    |
 |:----------|:----------------|:---------------|:-------------------|:-------------------|
-| Jan 6     | Course introduction<br />Asking questions<br />Command line<br />Introductory git<br />[Lecture recordings][Lecture 1 recordings]<br />[Lecture materials][Lecture 1 materials] | [bash cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)<br />[Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[So You Want To Be A Wizard](https://wizardzines.com/zines/wizard/) | [Install required software](<software>)<br />[Homework 1][Homework 1] | |
+| Jan 6     | Course introduction<br />Asking questions<br />Command line<br />Introductory git<br />[Lecture recordings][Lecture 1 recordings]<br />[Lecture materials][Lecture 1 materials] | [bash cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)<br />[Learning Linux Commands](http://linuxcommand.org/lc3_learning_the_shell.php)<br />[Software Carpentry: Shell](https://swcarpentry.github.io/shell-novice/)<br />[Software Carpentry: Git](https://swcarpentry.github.io/git-novice/)<br />[So You Want To Be A Wizard](https://wizardzines.com/zines/wizard/) | [Install required software](<software>)<br />[Homework 1][Homework 1] | |
 | Jan 13    | Jupyter notebooks & math <br />Python basics<br />Pandas<br />More python exercises<br />[Lecture recordings][Lecture 2 recordings]<br />[Lecture materials][Lecture 2 materials] | [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)<br />[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  | [Homework 2][Homework 2] | [Homework 1][Homework 1] |
 | Jan 20    | Python functions<br />Python modules<br />Python I/O<br />Interfaces & specifications<br />Project overview<br />[Lecture recordings][Lecture 3 recordings]<br />[Lecture materials][Lecture 3 materials] |  | [Homework 3][Homework 3]<br />[Project: proposals][Project proposal survey] | [Homework 2][Homework 2] |
 | Jan 27     | Debugging<br />Exceptions<br />Testing<br />[Lecture recordings][Lecture 4 recordings]<br />[Lecture materials][Lecture 4 materials] | | [Homework 4][Homework 4] | [Homework 3][Homework 3] |
