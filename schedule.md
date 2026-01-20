@@ -6,7 +6,7 @@ collection: winter2026
 
 [Lecture 1 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/01>
 [Lecture 2 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/02>
-[Lecture 3 materials]: <notfound>
+[Lecture 3 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/03>
 [Lecture 4 materials]: <notfound>
 [Lecture 5 materials]: <notfound>
 [Lecture 6 materials]: <notfound>
@@ -17,7 +17,7 @@ collection: winter2026
 
 [Homework 1]: <https://www.gradescope.com/courses/1210012/assignments/7380851>
 [Homework 2]: <https://www.gradescope.com/courses/1210012/assignments/7380855>
-[Homework 3]: <notfound>
+[Homework 3]: <https://www.gradescope.com/courses/1210012/assignments/7380853>
 [Homework 4]: <notfound>
 [Homework 5]: <notfound>
 [Project proposal survey]: <notfound>
@@ -28,7 +28,7 @@ collection: winter2026
 [Course evaluations]: <notfound>
 
 [Lecture 1 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e45ac-477e-4daf-8429-b3cc000e005c>
-[Lecture 2 recordings]: <notfound>
+[Lecture 2 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df325f0d-1ea7-4314-b533-b3d2000f9a97>
 [Lecture 3 recordings]: <notfound>
 [Lecture 4 recordings]: <notfound>
 [Lecture 5 recordings]: <notfound>
