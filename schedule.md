@@ -29,7 +29,7 @@ collection: winter2026
 
 [Lecture 1 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e45ac-477e-4daf-8429-b3cc000e005c>
 [Lecture 2 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df325f0d-1ea7-4314-b533-b3d2000f9a97>
-[Lecture 3 recordings]: <notfound>
+[Lecture 3 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c1e3b15-5700-4c5e-8b9d-b3da0160c0bf>
 [Lecture 4 recordings]: <notfound>
 [Lecture 5 recordings]: <notfound>
 [Lecture 6 recordings]: <notfound>
