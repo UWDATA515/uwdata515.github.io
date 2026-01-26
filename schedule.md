@@ -7,7 +7,7 @@ collection: winter2026
 [Lecture 1 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/01>
 [Lecture 2 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/02>
 [Lecture 3 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/03>
-[Lecture 4 materials]: <notfound>
+[Lecture 4 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/04>
 [Lecture 5 materials]: <notfound>
 [Lecture 6 materials]: <notfound>
 [Lecture 7 materials]: <notfound>
