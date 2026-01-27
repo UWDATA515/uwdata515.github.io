@@ -18,9 +18,9 @@ collection: winter2026
 [Homework 1]: <https://www.gradescope.com/courses/1210012/assignments/7380851>
 [Homework 2]: <https://www.gradescope.com/courses/1210012/assignments/7380855>
 [Homework 3]: <https://www.gradescope.com/courses/1210012/assignments/7380853>
-[Homework 4]: <notfound>
+[Homework 4]: <https://www.gradescope.com/courses/1210012/assignments/7380858>
 [Homework 5]: <notfound>
-[Project proposal survey]: <notfound>
+[Project proposal survey]: <https://canvas.uw.edu/courses/1862064/assignments/11129196>
 [Project validation survey]: <notfound>
 [Midpoint feedback]: <notfound>
 [Guest lecture survey]: <notfound>
