@@ -8,7 +8,7 @@ collection: winter2026
 [Lecture 2 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/02>
 [Lecture 3 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/03>
 [Lecture 4 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/04>
-[Lecture 5 materials]: <notfound>
+[Lecture 5 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/05>
 [Lecture 6 materials]: <notfound>
 [Lecture 7 materials]: <notfound>
 [Lecture 8 materials]: <notfound>
@@ -21,7 +21,7 @@ collection: winter2026
 [Homework 4]: <https://www.gradescope.com/courses/1210012/assignments/7380858>
 [Homework 5]: <notfound>
 [Project proposal survey]: <https://canvas.uw.edu/courses/1862064/assignments/11129196>
-[Project validation survey]: <notfound>
+[Project validation survey]: <https://canvas.uw.edu/courses/1862064/assignments/11142899>
 [Midpoint feedback]: <notfound>
 [Guest lecture survey]: <notfound>
 [Project survey]: <notfound>
@@ -30,7 +30,7 @@ collection: winter2026
 [Lecture 1 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e45ac-477e-4daf-8429-b3cc000e005c>
 [Lecture 2 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df325f0d-1ea7-4314-b533-b3d2000f9a97>
 [Lecture 3 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c1e3b15-5700-4c5e-8b9d-b3da0160c0bf>
-[Lecture 4 recordings]: <notfound>
+[Lecture 4 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e1f4379-1036-4cee-b52e-b3e000114812>
 [Lecture 5 recordings]: <notfound>
 [Lecture 6 recordings]: <notfound>
 [Lecture 7 recordings]: <notfound>
