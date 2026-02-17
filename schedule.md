@@ -10,7 +10,7 @@ collection: winter2026
 [Lecture 4 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/04>
 [Lecture 5 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/05>
 [Lecture 6 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/06>
-[Lecture 7 materials]: <notfound>
+[Lecture 7 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/07>
 [Lecture 8 materials]: <notfound>
 [Lecture 9 materials]: <notfound>
 [Lecture 10 materials]: <notfound>
@@ -23,7 +23,6 @@ collection: winter2026
 [Project proposal survey]: <https://canvas.uw.edu/courses/1862064/assignments/11129196>
 [Project validation survey]: <https://canvas.uw.edu/courses/1862064/assignments/11142899>
 [Midpoint feedback]: <notfound>
-[Guest lecture survey]: <notfound>
 [Project survey]: <notfound>
 [Course evaluations]: <notfound>
 [Homework_Bonus_First_Issue_Link]: <https://canvas.uw.edu/courses/1862064/assignments/11142926>
@@ -33,7 +32,7 @@ collection: winter2026
 [Lecture 3 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c1e3b15-5700-4c5e-8b9d-b3da0160c0bf>
 [Lecture 4 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e1f4379-1036-4cee-b52e-b3e000114812>
 [Lecture 5 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15e7747b-ea6a-4a8c-aa3f-b3e700114ceb>
-[Lecture 6 recordings]: <notfound>
+[Lecture 6 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=006da53e-82e3-450a-8d9a-b3ee001222e8>
 [Lecture 7 recordings]: <notfound>
 [Lecture 8 recordings]: <notfound>
 [Lecture 9 recordings]: <notfound>
@@ -53,7 +52,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 | Jan 27     | Debugging<br />Exceptions<br />Testing<br />[Lecture recordings][Lecture 4 recordings]<br />[Lecture materials][Lecture 4 materials] | | [Homework 4][Homework 4] | [Homework 3][Homework 3] |
 | Feb 3 (P)   | Project proposals<br />Team formation<br />Git part 2<br />Modules & imports<br />[Lecture recordings][Lecture 5 recordings]<br />[Lecture materials][Lecture 5 materials] | | [Project: GitHub repository & idea validation][Project validation survey] [Bonus Assignment: "Good First Issue"][Homework_Bonus_First_Issue_Link] | [Homework 4][Homework 4]<br />[Project: proposals][Project proposal survey] (**due before class! 12pm**) |
 | Feb 10 (P)   | Team collaboration<br />Software & use case design (group work)<br />Technology reviews (lecture)<br />[Lecture recordings][Lecture 6 recordings]<br />[Lecture materials][Lecture 6 materials] | [Sequence Diagram tool](https://www.websequencediagrams.com/)<br />[diagrams.net](https://app.diagrams.net/) | [Project: Technology reviews](https://uwdata515.github.io/projects.html#technology-review)<br />[Project: software & use case design](https://uwdata515.github.io/projects.html#design-documents) | [Project: GitHub repository & idea validation][Project validation survey] |
-| Feb 17    | Standups<br />Virtual environments<br />Continuous integration<br />[Example CI repository](https://github.com/UWDATA515/ci_example)<br />[Lecture recordings][Lecture 7 recordings]<br />[Lecture materials][Lecture 7 materials] | [Conda environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)<br />[GitHub Actions](https://docs.github.com/en/actions/quickstart)<br />[GitHub Workflows for Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python) | [Project: Continuous Integration](<projects>) | [Project: software & use case design](https://uwdata515.github.io/projects.html#design-documents) |
+| Feb 17    | Standups<br />Virtual environments<br />Continuous integration<br />[Example CI repository](https://github.com/UWDATA515/ci_example)<br />[Lecture recordings][Lecture 7 recordings]<br />[Lecture materials][Lecture 7 materials] | [Conda environments](https://conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)<br />[GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart)<br />[GitHub Workflows for Python](https://docs.github.com/en/actions/tutorials/build-and-test-code/python) | [Project: Continuous Integration](<projects>) | [Project: software & use case design](https://uwdata515.github.io/projects.html#design-documents) |
 | Feb 24 (P)   | Standups<br />First project demo<br />Documentation & style<br />[Lecture recordings][Lecture 8 recordings]<br />[Lecture materials][Lecture 8 materials] | [PEP8](https://www.python.org/dev/peps/pep-0008/)<br />[Google Python Style Guide](http://google.github.io/styleguide/pyguide.html) | [Homework 5][Homework 5] | [Project: Continuous Integration](<projects>)<br />A basic project demo<br />[Project: Technology reviews](https://uwdata515.github.io/projects.html#technology-review) |
 | Mar 3 (P)   | Standups<br />Packages<br />Advanced Testing<br />Software design (Part 2)<br />[Lecture recordings][Lecture 9 recordings]<br />[Lecture materials][Lecture 9 materials] | [Python packaging](https://packaging.python.org/en/latest/tutorials/packaging-projects/)<br />[setuptools](https://setuptools.pypa.io/en/latest/userguide/index.html)<br />[unittest.mock](https://docs.python.org/3/library/unittest.mock.html)<br />[Streamlit AppTest](https://docs.streamlit.io/library/advanced-features/app-testing)<br />[Wikipedia on design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)<br />[Python Patterns Guide](https://python-patterns.guide/)<br />["Gang of Four" Design Patterns book](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) |  | [Homework 5][Homework 5] |
 | Mar 10 (P)    | Standups & Group Work<br />Software design patterns<br />Giving presentations<br />Secrets<br />Group consultations with Naomi/Riyosha<br />[Lecture recordings][Lecture 10 recordings]<br />[Lecture materials][Lecture 10 materials] | [dotenv](https://pypi.org/project/python-dotenv/)<br />[streamlit secrets.toml](https://docs.streamlit.io/develop/concepts/connections/secrets-management)<br />[Secrets in GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions) | [Project: survey][Project survey]<br />[Course evaluations][Course evaluations] | Project: Practice presentations with course staff (low-stress, just to see how it's going) |
