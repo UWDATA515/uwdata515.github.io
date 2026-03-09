@@ -13,7 +13,7 @@ collection: winter2026
 [Lecture 7 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/07>
 [Lecture 8 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/08>
 [Lecture 9 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/09>
-[Lecture 10 materials]: <notfound>
+[Lecture 10 materials]: <https://github.com/UWDATA515/lecture-materials/tree/main/10>
 
 [Homework 1]: <https://www.gradescope.com/courses/1210012/assignments/7380851>
 [Homework 2]: <https://www.gradescope.com/courses/1210012/assignments/7380855>
@@ -34,7 +34,7 @@ collection: winter2026
 [Lecture 6 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=006da53e-82e3-450a-8d9a-b3ee001222e8>
 [Lecture 7 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384085b6-3708-4e8c-aefe-b3f500122580>
 [Lecture 8 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b79a291a-f259-4e16-b5c2-b3fc00125162>
-[Lecture 9 recordings]: <notfound>
+[Lecture 9 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3350d3bf-8a9f-462c-b913-b4030011e1e0>
 [Lecture 10 recordings]: <notfound>
 
 Lecture materials (slides, keys, & notes) and recordings will be posted by midnight after class. Homework will be posted just before lecture.
