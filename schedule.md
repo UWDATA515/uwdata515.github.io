@@ -23,7 +23,7 @@ collection: winter2026
 [Project proposal survey]: <https://canvas.uw.edu/courses/1862064/assignments/11129196>
 [Project validation survey]: <https://canvas.uw.edu/courses/1862064/assignments/11142899>
 [Project survey]: <notfound>
-[Course evaluations]: <notfound>
+[Course evaluations]: < https://uw.iasystem.org/survey/318334>
 [Homework_Bonus_First_Issue_Link]: <https://canvas.uw.edu/courses/1862064/assignments/11142926>
 
 [Lecture 1 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f97e45ac-477e-4daf-8429-b3cc000e005c>
