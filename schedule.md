@@ -22,7 +22,7 @@ collection: winter2026
 [Homework 5]: <https://www.gradescope.com/courses/1210012/assignments/7380859>
 [Project proposal survey]: <https://canvas.uw.edu/courses/1862064/assignments/11129196>
 [Project validation survey]: <https://canvas.uw.edu/courses/1862064/assignments/11142899>
-[Project survey]: <notfound>
+[Project survey]: <https://www.gradescope.com/courses/1210012/assignments/7380861>
 [Course evaluations]: < https://uw.iasystem.org/survey/318334>
 [Homework_Bonus_First_Issue_Link]: <https://canvas.uw.edu/courses/1862064/assignments/11142926>
 
