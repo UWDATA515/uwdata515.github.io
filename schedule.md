@@ -35,7 +35,7 @@ collection: winter2026
 [Lecture 7 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384085b6-3708-4e8c-aefe-b3f500122580>
 [Lecture 8 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b79a291a-f259-4e16-b5c2-b3fc00125162>
 [Lecture 9 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3350d3bf-8a9f-462c-b913-b4030011e1e0>
-[Lecture 10 recordings]: <notfound>
+[Lecture 10 recordings]: <https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05929bf6-4e27-438b-915b-b40a0001c6d5>
 
 Lecture materials (slides, keys, & notes) and recordings will be posted by midnight after class. Homework will be posted just before lecture.
 
