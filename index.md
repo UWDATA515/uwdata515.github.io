@@ -1,22 +1,28 @@
 ---
 layout: home
 title: Home
-collection: winter2026
+collection: winter2027
 ---
 
 ## Instructors
 
-#### Naomi Alterman (she/her)
-#### Teaching Assistants: Riyosha Sharma (she/her)
+#### Melissa Winstanley (she/her) (mwinst at cs.washington.edu)
+#### Teaching Assistants: Priyal Jain (she/her) (pjain02 at uw.edu)
 
 ## Logistics
 #### Days: Tuesdays
 #### Time: 5pm - 8:50pm
 #### Place: L039 400 (45th Street Plaza Building)
+#### Discussion forum: [Ed Discussions](https://edstem.org/us/courses/108703/)
 
-#### Naomi's office hours: Tuesdays 3:30-4:30pm in MSDS space, or by appointment (email naomila at uw dot edu)
-#### Riyosha's (TA) office hours: Thursdays 12-1pm in MSDS space, or by appointment (email riyosha at uw dot edu)
+#### Melissa's office hours
+* Tuesdays 3:30-4:30pm in the MSDS instructor space
+* [Flexible for students, by appointment - fill out this form to request](https://docs.google.com/forms/d/e/1FAIpQLSeDMQrTX0oBirFldJZVa-NLVY32Jq4xrwJHKQnqt_mzwRVraQ/viewform)
 
-**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/90848)**
+#### Priyal's (TA) office hours
+* TBD
+* [or Zoom by appointment - fill out this form to request](https://docs.google.com/forms/d/e/1FAIpQLSeDMQrTX0oBirFldJZVa-NLVY32Jq4xrwJHKQnqt_mzwRVraQ/viewform)
 
-If you are feeling sick, please follow these guidelines from the University: <https://www.ehs.washington.edu/communicable-diseases/respiratory-illness-and-exposure-guidance>.
+**The fastest way to get help would be by posting your questions on : [Ed Discussions](https://edstem.org/us/courses/108703)**
+
+If you are feeling sick before a class, please contact the instructor *before* class. We **do not** expect or desire students to attend class sick.
