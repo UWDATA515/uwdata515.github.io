@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-collection: winter2026
+collection: winter2027
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9b9f8eec2894a09f5b3ecefaa0061f2b7d7dd427fc4afbc7a44cef67a60ca21c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_0ef12dfbb07ce50bb4696887b2a07beaa841ea015834f1a127b2bf22cebc8f3d%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
